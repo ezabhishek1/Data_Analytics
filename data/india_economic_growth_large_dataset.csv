@@ -1,0 +1,1201 @@
+Year,GDP_Growth_%,Inflation_%,Unemployment_%,Population_Billion,FDI_Billion_$,Exports_Billion_$,Imports_Billion_$,Tech_Investment_Billion_$,Leading_Sector,Policy_Focus,Economic_Outlook
+2032,6.98,3.94,6.95,1.5,138.97,1020.42,852.83,126.7,AI,Make in India,Very Strong
+2045,6.85,4.6,6.9,1.43,112.91,694.37,923.2,79.87,Manufacturing,Smart Cities,Positive
+2040,7.71,4.95,5.33,1.55,163.03,729.95,560.02,93.39,Renewable Energy,PLI Scheme,Strong
+2036,8.45,4.61,5.54,1.57,104.29,851.08,979.74,74.95,Space,Smart Cities,Positive
+2033,8.16,3.73,6.06,1.48,31.71,665.13,794.5,124.0,AI,Digital Push,Very Strong
+2046,7.74,4.39,5.44,1.53,146.44,853.79,1047.79,106.5,EV,Make in India,Very Strong
+2032,6.7,4.99,6.84,1.54,122.55,747.5,755.68,73.51,Space,Green Energy,Strong
+2044,7.05,5.74,6.35,1.5,126.42,540.75,724.58,47.95,Renewable Energy,Smart Cities,Very Strong
+2048,6.94,4.06,5.11,1.44,84.94,593.95,799.23,110.75,Infrastructure,PLI Scheme,Strong
+2036,6.82,4.8,5.38,1.58,108.93,709.46,890.0,78.55,EV,Make in India,Strong
+2036,6.88,4.99,7.39,1.48,114.66,896.75,781.59,106.85,AI,Make in India,Very Strong
+2049,6.86,3.63,7.74,1.47,104.05,642.9,900.15,95.87,Manufacturing,Digital Push,Moderate
+2046,6.82,5.45,6.74,1.58,66.64,685.91,765.8,53.31,Space,PLI Scheme,Very Strong
+2029,7.96,3.45,5.99,1.53,179.22,775.33,824.88,73.86,Infrastructure,Make in India,Very Strong
+2033,6.36,4.77,5.76,1.51,130.9,549.75,1133.12,82.92,EV,Make in India,Positive
+2049,6.62,4.41,6.75,1.45,120.51,785.83,870.02,76.48,AI,Green Energy,Very Strong
+2028,5.93,4.24,6.28,1.54,142.85,564.75,881.25,92.32,Technology,Digital Push,Positive
+2047,8.33,5.98,4.59,1.64,126.1,818.06,613.84,98.03,Biotech,Digital Push,Positive
+2046,6.56,3.99,7.23,1.54,93.07,652.95,1009.6,125.79,AI,PLI Scheme,Very Strong
+2027,7.73,3.98,7.55,1.52,141.24,636.95,969.31,99.44,Technology,Make in India,Strong
+2049,7.58,5.13,6.94,1.54,131.31,782.74,719.98,119.82,Technology,Green Energy,Moderate
+2037,8.26,4.73,5.11,1.48,94.02,845.28,966.54,80.46,EV,Startup India,Very Strong
+2031,7.03,5.1,5.56,1.48,129.75,795.15,866.17,113.3,AI,Smart Cities,Very Strong
+2027,6.44,4.28,4.34,1.48,103.99,774.92,826.5,82.38,Biotech,Digital Push,Strong
+2046,5.96,4.42,7.8,1.47,115.21,776.62,1000.73,71.66,AI,Green Energy,Positive
+2026,4.97,5.53,5.84,1.48,124.99,795.88,748.28,70.81,Technology,PLI Scheme,Strong
+2037,7.33,3.61,8.53,1.48,144.21,803.76,718.87,37.16,Renewable Energy,Green Energy,Strong
+2047,7.82,4.13,8.16,1.49,93.85,702.69,849.06,107.08,Infrastructure,Make in India,Positive
+2037,7.58,4.76,5.3,1.49,119.12,828.54,893.95,64.2,Manufacturing,Smart Cities,Very Strong
+2050,5.98,4.06,5.49,1.51,160.39,654.22,955.28,118.16,AI,Digital Push,Strong
+2042,8.03,3.8,6.67,1.5,105.6,880.97,798.87,86.52,Infrastructure,Startup India,Strong
+2035,6.64,4.63,4.45,1.51,114.91,843.89,701.03,58.9,Infrastructure,Make in India,Very Strong
+2041,6.47,5.14,5.76,1.58,160.36,1011.71,1174.0,67.65,Space,Digital Push,Very Strong
+2040,6.62,4.1,5.66,1.5,125.94,811.66,667.88,93.81,Renewable Energy,PLI Scheme,Moderate
+2040,7.26,4.08,8.05,1.61,73.15,859.09,827.72,52.4,Infrastructure,Digital Push,Strong
+2044,6.01,3.75,6.36,1.52,90.11,562.74,929.16,101.8,AI,Green Energy,Moderate
+2037,7.17,3.99,5.92,1.48,127.24,863.0,981.16,59.67,EV,Smart Cities,Positive
+2048,7.54,4.96,5.57,1.57,120.58,891.17,740.6,75.22,EV,Startup India,Very Strong
+2045,8.09,4.26,7.09,1.5,114.06,930.57,557.51,93.97,Space,Smart Cities,Very Strong
+2050,7.34,3.64,5.7,1.38,164.03,764.46,737.36,99.35,Infrastructure,Green Energy,Moderate
+2028,6.13,4.38,6.15,1.5,94.56,708.97,940.59,105.95,AI,Startup India,Strong
+2030,7.32,4.94,5.56,1.49,108.14,619.26,909.25,63.87,AI,Startup India,Positive
+2044,6.35,3.81,4.68,1.58,60.92,630.24,913.82,83.83,Technology,Make in India,Strong
+2032,6.31,3.27,5.2,1.46,139.02,746.93,919.63,111.86,Renewable Energy,Startup India,Strong
+2046,6.11,5.73,5.7,1.48,90.03,539.83,1007.61,83.84,Biotech,Digital Push,Moderate
+2034,5.67,3.24,5.94,1.56,136.43,657.81,711.38,95.89,Manufacturing,Smart Cities,Strong
+2032,6.75,3.95,5.98,1.52,133.8,760.74,652.29,93.25,Biotech,PLI Scheme,Moderate
+2043,8.1,4.36,6.11,1.49,168.73,758.06,871.87,116.02,Space,PLI Scheme,Very Strong
+2029,9.01,4.01,5.71,1.46,126.23,633.67,673.21,80.68,Technology,Smart Cities,Very Strong
+2050,6.74,4.15,7.55,1.52,101.1,601.94,643.47,62.2,Manufacturing,Make in India,Very Strong
+2039,8.07,4.6,7.15,1.5,121.34,619.86,991.35,70.64,Biotech,Startup India,Positive
+2043,6.88,2.53,6.06,1.46,91.02,723.5,855.05,93.78,AI,Green Energy,Positive
+2034,5.88,3.31,6.45,1.46,117.98,1005.58,823.99,58.61,EV,Digital Push,Strong
+2046,7.76,4.23,5.83,1.46,104.98,877.24,826.9,79.11,Technology,Make in India,Moderate
+2027,7.39,3.92,3.36,1.45,108.24,775.7,805.14,91.51,Biotech,Startup India,Strong
+2045,8.65,4.29,6.22,1.55,87.54,816.47,990.41,74.67,Space,PLI Scheme,Very Strong
+2040,5.97,4.36,6.51,1.54,117.51,871.9,607.95,96.54,Infrastructure,Green Energy,Strong
+2032,9.44,2.72,4.59,1.55,130.61,831.07,602.16,104.49,Space,Startup India,Strong
+2037,8.47,5.09,6.7,1.5,68.7,713.01,688.91,99.1,Space,Make in India,Strong
+2033,7.19,3.85,5.92,1.49,92.79,648.53,860.48,59.05,Space,Green Energy,Very Strong
+2040,6.96,3.59,6.54,1.49,114.2,734.97,1072.75,91.58,Infrastructure,Green Energy,Moderate
+2028,6.63,4.35,5.95,1.55,51.32,870.51,941.67,93.15,Manufacturing,Green Energy,Strong
+2039,7.29,4.28,7.45,1.41,153.51,717.55,902.94,82.38,AI,Green Energy,Very Strong
+2042,7.05,5.04,6.43,1.47,92.22,617.44,808.82,96.27,EV,Startup India,Positive
+2029,7.61,4.39,7.2,1.46,86.55,543.19,633.45,95.55,Manufacturing,Green Energy,Moderate
+2043,6.96,5.01,7.28,1.57,104.82,735.48,892.1,88.18,Biotech,Startup India,Very Strong
+2033,8.33,3.54,5.08,1.48,113.43,626.92,1103.64,69.91,Biotech,Green Energy,Strong
+2029,7.3,4.3,5.46,1.42,91.09,697.62,786.39,89.47,EV,Green Energy,Very Strong
+2027,6.99,3.42,6.65,1.51,134.51,924.75,741.51,127.34,Biotech,Make in India,Moderate
+2031,8.02,4.27,5.83,1.48,119.99,743.54,787.07,82.15,Renewable Energy,Startup India,Strong
+2047,5.9,4.12,5.96,1.47,89.07,659.94,903.97,110.95,EV,PLI Scheme,Positive
+2035,7.47,4.09,7.49,1.47,96.94,787.05,835.64,90.78,Infrastructure,Startup India,Positive
+2029,7.22,4.1,5.89,1.47,72.08,980.51,947.4,73.99,Biotech,Smart Cities,Positive
+2047,6.07,4.72,5.23,1.54,78.67,735.52,815.32,84.07,Biotech,PLI Scheme,Very Strong
+2043,5.83,3.07,5.37,1.51,119.69,467.34,786.26,89.66,Technology,Make in India,Moderate
+2037,8.01,3.57,8.38,1.49,89.33,828.01,852.06,103.1,Technology,Startup India,Positive
+2027,7.97,4.17,6.02,1.45,155.11,791.57,744.45,137.6,Technology,Make in India,Strong
+2035,7.34,3.37,4.84,1.49,111.77,760.81,1063.71,91.09,EV,PLI Scheme,Strong
+2029,8.57,4.23,4.43,1.51,76.18,723.7,935.24,65.38,Infrastructure,Make in India,Strong
+2039,7.55,4.16,5.58,1.51,81.42,653.13,666.04,56.91,EV,Make in India,Very Strong
+2041,8.2,3.22,6.0,1.51,136.32,931.8,715.59,81.56,Space,Digital Push,Moderate
+2040,7.54,3.18,7.15,1.45,108.09,529.4,899.15,67.44,AI,Startup India,Moderate
+2033,6.98,2.36,7.05,1.38,134.8,712.92,845.66,101.16,Infrastructure,Make in India,Positive
+2039,6.35,3.35,6.19,1.59,100.84,710.12,862.35,101.31,Infrastructure,Digital Push,Moderate
+2048,6.72,4.21,5.75,1.43,95.99,852.41,793.1,87.08,Space,Digital Push,Strong
+2050,6.99,4.31,6.54,1.4,137.99,898.28,883.72,103.15,EV,Green Energy,Strong
+2033,8.29,4.34,4.45,1.51,88.54,722.79,796.4,91.3,EV,Green Energy,Very Strong
+2046,7.82,3.66,8.18,1.41,122.23,773.16,898.87,127.35,Technology,PLI Scheme,Strong
+2041,7.46,4.19,6.85,1.46,104.71,783.36,928.22,102.52,Infrastructure,Startup India,Moderate
+2038,7.9,4.48,7.07,1.53,131.97,876.4,1044.94,107.91,Technology,Green Energy,Strong
+2043,7.62,3.31,5.13,1.59,155.46,873.93,747.94,61.04,AI,PLI Scheme,Positive
+2040,7.41,4.29,7.48,1.52,100.2,685.39,818.44,66.58,Renewable Energy,Startup India,Very Strong
+2046,6.0,4.66,5.74,1.48,96.32,802.55,649.34,99.58,Technology,PLI Scheme,Very Strong
+2049,8.11,3.86,5.25,1.5,126.65,795.99,1075.68,59.02,EV,Digital Push,Moderate
+2050,6.83,4.94,6.16,1.41,82.95,736.09,543.43,77.51,Biotech,Digital Push,Strong
+2038,8.07,3.87,6.14,1.48,150.41,794.85,1055.6,113.59,Manufacturing,Startup India,Strong
+2034,8.15,3.6,5.12,1.48,146.15,752.42,833.09,77.08,Renewable Energy,PLI Scheme,Moderate
+2040,6.66,4.59,5.31,1.51,85.02,768.95,878.58,65.81,AI,PLI Scheme,Moderate
+2038,7.96,5.62,5.23,1.6,70.42,587.28,796.81,103.35,Biotech,Green Energy,Positive
+2026,6.91,4.26,5.24,1.4,80.99,639.84,824.35,131.47,EV,Green Energy,Moderate
+2050,6.92,4.64,5.81,1.48,81.37,848.13,902.33,73.83,Renewable Energy,Startup India,Strong
+2032,7.41,3.84,4.81,1.41,130.04,604.73,590.87,114.48,Space,Smart Cities,Positive
+2034,7.43,3.33,5.51,1.47,148.73,806.41,728.7,71.34,EV,Green Energy,Very Strong
+2049,7.23,4.32,7.25,1.46,129.75,740.23,701.69,87.75,Technology,Make in India,Strong
+2026,6.13,4.43,7.02,1.43,104.1,873.68,882.64,88.62,Biotech,Green Energy,Very Strong
+2037,7.1,3.95,5.15,1.55,118.56,827.86,820.61,74.36,EV,Smart Cities,Very Strong
+2033,9.02,4.64,7.16,1.51,88.26,695.61,906.53,107.51,Biotech,PLI Scheme,Very Strong
+2049,4.97,3.74,4.23,1.54,137.43,723.21,843.07,59.21,AI,Digital Push,Strong
+2036,7.9,3.57,8.63,1.47,120.8,511.74,968.2,93.9,Manufacturing,Digital Push,Very Strong
+2044,8.05,4.94,7.5,1.5,129.33,734.35,716.36,111.48,Technology,PLI Scheme,Strong
+2042,6.11,4.95,5.64,1.58,91.81,597.58,828.14,105.84,Technology,Digital Push,Very Strong
+2033,6.82,3.76,6.58,1.5,105.79,723.76,975.31,99.82,Biotech,Green Energy,Moderate
+2028,6.4,5.4,4.8,1.54,128.13,673.45,947.31,121.71,AI,Digital Push,Moderate
+2028,8.68,4.0,6.26,1.47,146.09,644.8,612.85,85.61,AI,Smart Cities,Strong
+2026,8.08,4.26,6.02,1.54,94.8,892.53,677.04,59.51,Renewable Energy,Smart Cities,Very Strong
+2030,8.12,4.14,5.37,1.47,129.51,596.85,808.55,92.7,Manufacturing,Green Energy,Very Strong
+2035,7.3,4.57,5.73,1.41,92.2,634.43,787.12,87.48,EV,PLI Scheme,Very Strong
+2032,8.25,4.39,5.63,1.5,162.93,666.21,810.84,47.68,Renewable Energy,Make in India,Moderate
+2034,7.19,4.38,5.07,1.48,99.63,692.27,931.47,67.5,EV,Green Energy,Very Strong
+2032,8.29,3.49,5.34,1.42,126.09,644.79,860.51,64.95,EV,Digital Push,Very Strong
+2034,7.08,3.02,4.76,1.51,114.14,706.9,868.68,73.71,EV,Green Energy,Strong
+2033,6.66,5.0,7.06,1.46,175.13,786.26,913.89,82.98,Renewable Energy,Smart Cities,Very Strong
+2037,8.65,3.82,5.27,1.65,115.75,830.38,970.38,83.74,Technology,Green Energy,Moderate
+2027,7.18,4.17,4.98,1.43,97.12,824.56,392.16,74.42,AI,Green Energy,Very Strong
+2026,6.48,4.43,7.04,1.44,125.99,521.02,765.87,64.92,Technology,Make in India,Moderate
+2041,6.47,5.34,6.57,1.54,125.43,795.62,696.38,97.55,Manufacturing,Smart Cities,Moderate
+2048,6.47,4.31,7.0,1.49,106.06,803.03,886.54,92.33,Renewable Energy,Startup India,Positive
+2048,7.88,3.92,7.12,1.54,82.63,670.51,755.31,92.93,Space,Startup India,Moderate
+2049,7.12,3.83,8.14,1.52,96.8,950.12,830.62,125.58,Manufacturing,Smart Cities,Positive
+2030,9.04,4.17,6.04,1.47,132.04,880.52,939.3,93.26,AI,Startup India,Positive
+2028,8.15,3.56,4.74,1.43,66.31,728.04,735.58,82.67,AI,Digital Push,Very Strong
+2037,7.41,4.22,6.47,1.55,103.8,678.48,870.79,87.88,Infrastructure,Startup India,Positive
+2033,8.32,4.16,5.53,1.44,134.87,948.17,1037.54,91.98,Manufacturing,Digital Push,Strong
+2047,6.8,5.35,5.24,1.53,107.66,747.72,936.43,102.32,Space,Smart Cities,Moderate
+2028,5.72,4.14,6.3,1.55,164.34,760.2,597.99,89.11,Technology,Startup India,Strong
+2026,6.41,2.85,7.07,1.49,66.38,758.69,779.16,51.14,Biotech,Startup India,Positive
+2028,7.32,6.07,5.36,1.48,85.97,1026.37,869.81,81.27,Space,PLI Scheme,Very Strong
+2030,7.02,4.87,7.47,1.45,52.13,724.02,897.39,90.03,Manufacturing,Digital Push,Moderate
+2040,7.86,5.66,5.21,1.52,159.84,747.16,784.67,116.08,Renewable Energy,Digital Push,Strong
+2039,7.1,3.39,5.96,1.35,86.38,650.27,730.43,74.28,AI,Green Energy,Very Strong
+2028,7.8,4.04,6.59,1.54,60.33,703.26,829.49,57.29,AI,Make in India,Positive
+2026,8.4,4.67,5.81,1.51,94.7,626.23,667.84,91.29,Manufacturing,Startup India,Very Strong
+2030,7.1,4.58,4.42,1.49,75.18,652.71,973.96,107.32,Space,PLI Scheme,Strong
+2048,7.64,4.41,7.13,1.51,94.88,532.81,1081.62,82.13,Manufacturing,Make in India,Very Strong
+2039,5.8,2.66,5.58,1.43,111.03,855.78,875.26,137.66,EV,PLI Scheme,Strong
+2032,7.1,3.0,6.94,1.38,130.12,768.81,787.46,132.95,Manufacturing,Make in India,Very Strong
+2034,6.21,5.26,4.94,1.52,105.63,778.69,951.73,88.55,EV,Startup India,Moderate
+2040,7.32,5.39,5.11,1.57,110.63,743.71,928.07,93.73,Space,PLI Scheme,Very Strong
+2040,7.39,4.13,7.06,1.41,95.46,758.61,781.42,117.37,Renewable Energy,Digital Push,Moderate
+2035,7.39,5.17,6.54,1.45,72.21,944.3,813.3,88.2,Renewable Energy,Green Energy,Strong
+2038,6.82,3.48,5.76,1.54,63.84,657.75,734.67,73.92,Technology,PLI Scheme,Moderate
+2044,9.04,3.64,6.56,1.52,100.89,783.4,843.06,107.78,Manufacturing,Smart Cities,Very Strong
+2032,6.19,3.43,5.25,1.65,112.12,782.76,861.85,99.29,Space,Startup India,Moderate
+2042,6.14,3.61,6.31,1.55,99.03,887.04,710.78,73.85,Space,Startup India,Strong
+2045,8.52,4.71,6.33,1.54,64.77,802.64,669.55,95.58,Technology,Smart Cities,Very Strong
+2029,6.64,3.6,5.83,1.46,115.04,808.67,634.36,86.8,Biotech,Make in India,Moderate
+2030,6.44,5.77,5.36,1.53,150.73,599.01,878.31,82.3,Space,Green Energy,Moderate
+2048,9.04,4.52,6.27,1.57,107.13,652.93,818.39,74.28,Infrastructure,Make in India,Positive
+2032,7.99,4.96,6.15,1.49,95.51,609.97,808.3,92.43,Renewable Energy,Smart Cities,Moderate
+2038,6.72,4.54,5.73,1.49,108.49,452.9,885.03,84.68,AI,Smart Cities,Positive
+2040,7.37,5.05,5.17,1.51,82.39,797.66,693.87,95.69,EV,Green Energy,Strong
+2036,8.76,3.59,6.21,1.47,80.78,718.6,670.16,106.4,Infrastructure,Smart Cities,Positive
+2029,7.75,5.21,5.74,1.51,121.29,797.89,853.75,94.63,AI,Smart Cities,Strong
+2038,8.23,4.3,5.17,1.51,134.76,754.26,577.98,94.97,Infrastructure,PLI Scheme,Moderate
+2032,7.84,5.05,6.24,1.57,106.32,778.85,783.74,79.18,Technology,Green Energy,Moderate
+2044,7.94,3.19,7.81,1.49,60.66,910.57,1165.3,113.49,Technology,Startup India,Positive
+2047,7.23,4.33,5.83,1.53,118.83,750.88,631.2,73.03,EV,Make in India,Strong
+2027,7.21,4.3,7.7,1.49,161.68,830.28,759.84,57.76,Renewable Energy,Startup India,Moderate
+2035,7.41,3.77,8.31,1.53,103.9,713.73,522.8,68.58,Biotech,Startup India,Positive
+2038,7.79,4.42,5.25,1.49,105.55,848.97,787.28,110.69,Space,PLI Scheme,Positive
+2050,6.97,5.28,6.21,1.53,88.18,601.24,1095.32,99.18,EV,Make in India,Positive
+2046,7.3,3.71,8.3,1.54,122.03,529.49,885.37,116.24,Biotech,Startup India,Moderate
+2031,6.95,4.87,6.08,1.45,93.23,1002.8,734.07,63.54,AI,Green Energy,Strong
+2037,7.29,3.41,6.24,1.56,135.54,970.36,1125.4,136.4,Space,Make in India,Moderate
+2037,6.2,5.68,4.53,1.49,93.56,516.54,576.07,84.33,Infrastructure,Digital Push,Very Strong
+2045,9.28,4.75,5.67,1.48,118.54,745.67,883.55,54.79,EV,PLI Scheme,Very Strong
+2036,6.61,5.41,6.76,1.46,108.84,767.99,829.09,133.92,Biotech,Startup India,Moderate
+2048,6.91,4.67,8.63,1.51,148.88,836.76,785.42,63.8,Manufacturing,Smart Cities,Strong
+2050,6.54,4.47,6.0,1.5,120.24,958.71,932.99,82.04,Manufacturing,Make in India,Positive
+2032,7.69,4.76,4.54,1.52,144.68,622.63,654.52,85.88,Renewable Energy,Digital Push,Very Strong
+2026,7.04,4.1,4.79,1.52,112.72,629.08,863.77,98.88,Biotech,Smart Cities,Very Strong
+2026,6.43,3.07,6.16,1.53,105.73,749.86,845.99,74.17,EV,Digital Push,Moderate
+2050,7.73,4.51,7.38,1.64,109.05,634.37,698.06,110.79,AI,Startup India,Very Strong
+2050,7.83,3.67,6.84,1.5,90.71,424.3,1093.0,105.07,Manufacturing,Smart Cities,Very Strong
+2045,7.15,3.43,6.66,1.46,123.29,722.73,794.54,90.38,Renewable Energy,Startup India,Positive
+2038,6.67,4.65,7.51,1.4,92.74,852.91,800.59,116.49,EV,Smart Cities,Positive
+2034,8.95,4.0,5.48,1.44,112.81,747.54,676.13,88.64,Renewable Energy,Make in India,Strong
+2028,7.47,4.92,6.22,1.56,131.38,824.89,797.13,84.49,AI,Green Energy,Very Strong
+2032,6.18,3.65,5.68,1.54,149.59,807.72,1146.87,129.96,Manufacturing,Green Energy,Strong
+2031,8.33,3.87,5.93,1.43,114.07,626.76,784.62,95.91,Space,Digital Push,Strong
+2033,6.52,5.01,5.19,1.62,131.53,758.16,892.62,70.29,Manufacturing,PLI Scheme,Positive
+2034,9.39,4.4,5.86,1.52,128.55,566.98,953.08,72.99,Manufacturing,Smart Cities,Positive
+2030,7.26,3.17,6.17,1.52,100.44,688.57,794.6,90.38,Biotech,Startup India,Moderate
+2026,8.01,4.38,5.83,1.61,162.7,756.05,762.66,42.04,Technology,PLI Scheme,Positive
+2044,5.54,5.24,6.04,1.59,95.59,749.86,886.12,77.34,Biotech,Make in India,Strong
+2035,6.17,3.86,6.61,1.54,112.27,595.09,786.22,87.99,Manufacturing,Make in India,Very Strong
+2037,8.27,4.62,7.44,1.54,146.35,619.32,773.54,86.66,Infrastructure,Make in India,Strong
+2049,7.45,3.61,7.51,1.55,145.74,784.92,951.58,64.85,Technology,Green Energy,Strong
+2040,8.83,4.1,6.96,1.49,110.36,849.29,810.28,81.03,Space,Startup India,Strong
+2047,7.59,4.96,4.94,1.51,134.76,725.16,989.85,113.6,EV,Make in India,Positive
+2049,7.32,4.35,5.84,1.53,104.4,719.16,807.13,109.46,Biotech,Make in India,Strong
+2034,8.57,5.1,5.93,1.49,97.78,861.75,635.59,91.91,Technology,Digital Push,Moderate
+2045,8.01,4.5,5.54,1.45,79.68,657.35,340.39,88.62,Technology,Smart Cities,Very Strong
+2042,7.04,5.75,6.54,1.49,128.1,957.24,562.66,86.77,Biotech,Smart Cities,Positive
+2042,6.32,3.1,4.61,1.45,130.73,588.57,586.77,94.73,Biotech,Smart Cities,Strong
+2045,5.3,4.05,7.89,1.5,95.8,875.82,857.32,92.05,Technology,PLI Scheme,Moderate
+2037,6.85,3.44,7.4,1.41,116.7,814.7,684.01,96.48,Renewable Energy,Digital Push,Very Strong
+2032,6.25,3.49,6.68,1.52,176.27,1039.21,543.62,100.04,Space,Green Energy,Strong
+2027,9.28,3.49,6.14,1.42,138.67,615.46,801.67,65.78,Infrastructure,PLI Scheme,Very Strong
+2028,6.68,4.32,7.43,1.48,87.46,469.92,668.54,83.79,AI,Digital Push,Positive
+2042,6.66,4.36,6.89,1.53,135.04,899.93,884.83,93.96,Manufacturing,Make in India,Positive
+2030,5.98,4.5,7.31,1.54,87.58,573.44,881.36,70.68,Space,Startup India,Moderate
+2042,6.99,3.41,6.14,1.53,37.62,823.89,896.17,76.52,Biotech,PLI Scheme,Positive
+2049,6.67,3.97,7.99,1.52,109.49,891.86,461.84,85.64,Technology,PLI Scheme,Moderate
+2042,8.59,3.52,7.37,1.44,149.08,795.57,826.36,86.62,AI,Make in India,Strong
+2042,7.33,4.86,6.71,1.55,144.94,777.86,803.0,94.33,Biotech,Make in India,Very Strong
+2027,7.19,3.59,7.46,1.45,119.43,798.11,648.97,73.04,Renewable Energy,Startup India,Positive
+2027,7.09,4.05,5.78,1.55,96.46,850.49,520.76,109.36,AI,Smart Cities,Very Strong
+2047,7.83,4.59,5.03,1.53,122.16,820.45,804.78,86.46,Technology,PLI Scheme,Very Strong
+2048,6.84,3.77,6.52,1.57,103.27,604.01,968.98,92.9,Space,Digital Push,Strong
+2030,7.73,4.69,6.14,1.5,97.16,969.0,458.55,82.6,EV,Green Energy,Strong
+2026,8.49,5.32,6.0,1.46,136.55,756.13,703.45,94.71,Space,Make in India,Positive
+2026,7.57,4.33,7.42,1.44,96.85,812.2,838.41,123.42,Space,Make in India,Strong
+2044,7.0,4.83,6.37,1.44,138.18,835.32,977.49,82.42,Infrastructure,Green Energy,Very Strong
+2027,6.44,2.75,6.46,1.42,95.2,888.71,776.27,79.11,AI,Digital Push,Moderate
+2046,6.98,3.9,5.87,1.55,161.46,876.25,1090.34,73.4,Biotech,Make in India,Moderate
+2037,7.65,4.33,7.08,1.55,68.98,765.81,568.66,88.81,Technology,Green Energy,Moderate
+2031,5.97,3.46,6.9,1.53,86.08,758.1,537.63,88.58,Biotech,Make in India,Positive
+2048,7.87,4.35,7.07,1.5,106.12,799.03,962.48,91.03,Technology,Smart Cities,Strong
+2029,7.37,4.94,5.7,1.6,60.4,882.01,491.05,99.37,Manufacturing,Smart Cities,Strong
+2048,7.08,2.88,7.5,1.5,45.73,616.49,884.61,96.84,EV,Make in India,Strong
+2036,6.67,3.37,8.04,1.51,60.61,827.29,778.77,89.55,Manufacturing,Make in India,Strong
+2049,6.82,4.33,7.04,1.5,102.7,643.64,693.86,129.08,Space,Smart Cities,Very Strong
+2042,7.68,4.52,5.39,1.48,103.33,972.15,760.27,103.81,EV,Make in India,Moderate
+2031,7.1,4.72,5.4,1.53,118.32,794.08,639.53,68.21,Infrastructure,Digital Push,Very Strong
+2049,6.8,4.28,5.82,1.47,105.07,700.08,775.43,59.1,Manufacturing,Digital Push,Positive
+2030,7.57,4.52,5.64,1.46,117.49,801.45,822.44,76.09,Infrastructure,Startup India,Moderate
+2045,7.61,4.83,6.13,1.53,98.74,751.1,761.73,93.05,Biotech,Digital Push,Moderate
+2027,6.2,3.91,6.83,1.48,127.87,730.78,738.11,74.41,Space,PLI Scheme,Very Strong
+2031,7.66,3.77,6.49,1.51,124.86,532.89,855.58,77.45,Renewable Energy,PLI Scheme,Positive
+2047,9.2,4.08,6.4,1.48,101.83,627.1,1052.34,90.52,Renewable Energy,PLI Scheme,Positive
+2036,7.58,4.34,5.96,1.5,123.33,733.15,782.73,83.16,EV,Make in India,Moderate
+2041,5.84,3.74,6.13,1.47,105.23,547.4,934.8,49.05,EV,Make in India,Strong
+2041,7.34,3.92,7.0,1.47,71.94,679.54,684.74,111.54,Manufacturing,Green Energy,Positive
+2026,5.74,4.48,4.19,1.46,132.61,690.02,633.23,106.9,Renewable Energy,PLI Scheme,Very Strong
+2034,9.73,4.31,6.19,1.54,87.33,656.47,883.46,64.3,AI,PLI Scheme,Positive
+2031,8.99,4.07,6.49,1.51,132.35,842.68,787.31,91.14,AI,Digital Push,Moderate
+2041,6.67,2.98,6.98,1.55,118.1,644.38,978.13,67.67,Biotech,Smart Cities,Strong
+2028,5.4,4.2,5.19,1.55,107.89,760.61,1005.56,77.82,AI,Smart Cities,Positive
+2045,6.5,3.52,5.14,1.48,63.08,707.62,937.47,99.72,Biotech,Startup India,Moderate
+2029,7.06,4.89,6.78,1.54,148.49,735.74,934.43,106.2,Renewable Energy,Green Energy,Positive
+2044,5.79,3.98,4.3,1.5,100.92,942.77,340.45,105.73,AI,Smart Cities,Strong
+2028,7.14,3.5,7.53,1.49,125.86,771.56,882.23,94.9,Infrastructure,Startup India,Very Strong
+2044,7.05,4.16,6.43,1.56,107.15,794.76,940.8,115.5,Technology,Digital Push,Moderate
+2045,7.3,5.09,7.76,1.53,103.21,658.15,641.95,77.79,EV,Green Energy,Moderate
+2032,7.38,4.64,5.11,1.48,114.82,825.14,821.23,82.23,Space,Green Energy,Strong
+2045,6.43,4.35,5.76,1.52,110.66,820.08,674.02,38.11,Manufacturing,PLI Scheme,Moderate
+2034,6.52,3.27,3.79,1.44,103.33,808.51,963.85,88.14,Biotech,Make in India,Strong
+2026,7.24,5.34,5.4,1.51,108.62,604.9,686.16,101.59,Infrastructure,PLI Scheme,Moderate
+2033,6.7,3.76,6.02,1.43,120.68,679.77,709.0,95.71,AI,Digital Push,Strong
+2032,7.93,4.85,4.24,1.45,122.45,922.03,755.03,77.52,Space,PLI Scheme,Positive
+2043,7.23,3.97,5.81,1.53,111.08,667.47,1134.92,106.89,Space,Green Energy,Positive
+2033,8.69,4.79,4.21,1.37,125.52,938.4,960.65,88.52,Technology,PLI Scheme,Positive
+2026,7.86,5.11,5.94,1.59,99.4,684.43,1045.76,105.33,Manufacturing,Startup India,Moderate
+2036,8.08,4.65,7.35,1.54,165.62,767.79,566.16,99.72,Infrastructure,PLI Scheme,Strong
+2050,7.31,4.73,6.17,1.41,147.14,727.54,642.3,118.49,Manufacturing,Smart Cities,Strong
+2050,7.33,4.13,7.86,1.62,129.06,648.62,1007.4,96.79,Biotech,Digital Push,Very Strong
+2043,8.59,3.9,6.99,1.63,61.46,650.35,573.58,102.2,Biotech,Digital Push,Positive
+2048,6.9,4.3,7.55,1.49,125.15,665.49,725.96,88.47,EV,Green Energy,Very Strong
+2035,7.64,3.96,5.44,1.45,101.58,767.77,1107.75,79.94,Renewable Energy,PLI Scheme,Positive
+2028,6.99,5.93,5.41,1.58,85.53,856.85,685.11,99.81,Biotech,Green Energy,Very Strong
+2032,6.99,3.51,6.55,1.48,100.95,759.98,565.06,120.05,AI,Green Energy,Positive
+2041,6.26,4.9,4.62,1.51,88.3,745.99,826.65,77.68,Space,Startup India,Strong
+2041,6.61,4.56,6.67,1.56,122.67,895.25,570.84,85.04,Infrastructure,Make in India,Positive
+2050,6.46,4.36,5.88,1.49,150.4,754.96,993.22,90.53,Infrastructure,Green Energy,Moderate
+2045,7.68,5.24,7.53,1.49,130.65,684.86,694.72,103.7,Technology,Make in India,Positive
+2042,8.03,4.41,6.88,1.44,179.06,630.27,666.67,96.91,Space,Make in India,Positive
+2027,7.12,3.76,7.3,1.47,71.16,902.45,824.11,108.26,Technology,Digital Push,Strong
+2026,7.38,4.4,5.45,1.49,97.35,710.47,763.38,129.48,Technology,Smart Cities,Moderate
+2041,7.08,4.07,7.25,1.44,86.42,680.57,855.33,77.22,Space,Smart Cities,Strong
+2037,6.55,4.55,7.64,1.44,140.73,670.19,893.01,102.19,Manufacturing,PLI Scheme,Very Strong
+2030,7.89,4.77,6.16,1.5,104.49,895.7,789.58,96.41,AI,Startup India,Very Strong
+2030,7.72,3.6,5.46,1.41,114.74,681.24,657.4,90.38,Manufacturing,Startup India,Moderate
+2048,5.69,5.04,5.48,1.46,125.84,868.86,922.27,102.12,AI,Smart Cities,Very Strong
+2034,6.97,4.02,7.44,1.6,73.63,722.35,722.92,84.66,Infrastructure,PLI Scheme,Moderate
+2034,6.49,4.51,8.88,1.48,94.47,604.99,698.33,96.46,Biotech,Smart Cities,Positive
+2028,6.89,4.63,5.22,1.48,134.93,710.1,839.97,63.89,Biotech,PLI Scheme,Very Strong
+2044,6.66,4.46,5.14,1.48,96.3,746.06,549.99,79.22,Manufacturing,PLI Scheme,Positive
+2041,7.16,4.12,7.12,1.48,67.16,736.18,874.72,110.95,Manufacturing,PLI Scheme,Strong
+2041,6.94,3.86,5.45,1.53,87.44,733.2,847.41,110.18,Manufacturing,PLI Scheme,Very Strong
+2028,6.92,4.01,7.22,1.53,102.84,711.37,977.05,95.19,Renewable Energy,Digital Push,Strong
+2045,8.09,5.3,6.67,1.48,114.17,655.8,749.95,80.94,EV,Digital Push,Strong
+2049,7.65,3.59,6.18,1.49,108.23,751.29,1005.48,106.51,Space,Smart Cities,Moderate
+2047,6.64,3.7,6.64,1.57,94.64,814.91,894.15,114.73,AI,PLI Scheme,Strong
+2049,6.76,3.67,6.58,1.42,133.48,574.49,816.25,81.75,Biotech,Green Energy,Moderate
+2026,7.59,4.3,6.02,1.5,106.77,905.89,1074.34,60.9,AI,PLI Scheme,Moderate
+2049,7.59,3.13,4.44,1.51,115.24,306.41,833.33,98.98,Manufacturing,Green Energy,Moderate
+2045,6.72,3.25,6.38,1.46,95.98,759.03,747.43,108.28,Renewable Energy,Digital Push,Moderate
+2036,7.01,4.02,7.77,1.49,147.72,805.93,837.34,101.75,Manufacturing,PLI Scheme,Moderate
+2042,8.68,3.3,4.59,1.45,100.21,677.6,744.54,121.3,AI,Make in India,Positive
+2033,6.73,3.36,5.23,1.53,111.87,494.9,872.31,121.39,EV,Smart Cities,Moderate
+2029,8.73,3.3,6.63,1.43,135.87,738.39,1004.9,83.89,Biotech,PLI Scheme,Very Strong
+2031,8.08,3.61,6.24,1.55,117.0,770.36,818.88,93.98,EV,Startup India,Moderate
+2033,8.58,4.71,6.61,1.5,116.38,612.15,832.62,80.07,Space,Green Energy,Positive
+2045,6.7,4.87,5.5,1.48,60.66,650.38,931.7,69.56,Infrastructure,PLI Scheme,Very Strong
+2028,7.07,5.54,7.36,1.45,127.02,865.53,986.21,70.73,Renewable Energy,Make in India,Very Strong
+2041,6.84,5.52,6.25,1.55,111.39,764.12,756.63,104.34,EV,Green Energy,Positive
+2050,8.1,4.75,6.9,1.47,123.54,568.96,844.13,96.06,Renewable Energy,Make in India,Very Strong
+2028,6.75,4.92,6.52,1.44,114.58,803.98,932.32,107.8,Manufacturing,Smart Cities,Positive
+2050,7.78,4.29,6.38,1.55,96.02,638.34,866.19,140.63,Infrastructure,Smart Cities,Strong
+2043,7.74,4.56,6.83,1.45,132.36,657.03,559.31,100.0,AI,Smart Cities,Strong
+2039,7.16,5.56,6.39,1.5,114.95,773.72,957.58,74.24,EV,Digital Push,Moderate
+2043,8.24,4.46,5.01,1.54,77.77,762.54,893.2,110.7,EV,Make in India,Moderate
+2027,7.29,5.01,7.29,1.51,142.71,701.69,903.15,73.87,Technology,PLI Scheme,Moderate
+2047,7.87,3.55,7.02,1.59,74.24,689.49,653.1,124.97,Biotech,Startup India,Moderate
+2028,6.8,3.73,4.09,1.46,132.52,719.9,841.33,50.57,AI,Startup India,Positive
+2041,6.62,4.42,5.55,1.49,147.17,656.33,938.07,79.07,EV,Smart Cities,Strong
+2034,7.78,4.3,7.24,1.49,82.34,880.68,696.72,102.44,EV,Startup India,Positive
+2029,7.54,3.77,4.37,1.53,106.93,561.7,733.12,113.55,AI,Green Energy,Very Strong
+2026,7.39,5.89,7.14,1.56,104.6,721.09,940.47,76.46,Infrastructure,Make in India,Very Strong
+2029,6.93,4.32,6.06,1.5,105.73,574.87,726.61,72.83,Renewable Energy,Make in India,Very Strong
+2026,8.44,3.89,7.54,1.49,155.76,862.32,790.81,92.97,AI,Make in India,Very Strong
+2039,6.31,4.31,6.2,1.43,82.63,720.92,675.15,128.18,Renewable Energy,Green Energy,Very Strong
+2046,6.26,4.22,5.48,1.51,102.34,623.2,1074.79,59.23,Infrastructure,PLI Scheme,Strong
+2041,7.95,4.33,6.51,1.47,147.58,832.21,892.89,83.72,Infrastructure,Digital Push,Positive
+2045,7.89,3.08,6.17,1.53,101.93,474.97,784.24,95.2,Space,Green Energy,Very Strong
+2049,7.48,5.1,5.39,1.48,86.61,783.71,758.07,74.08,Manufacturing,Make in India,Moderate
+2033,6.97,5.14,8.42,1.49,116.58,888.15,648.03,74.01,Technology,Make in India,Strong
+2032,7.6,5.23,5.23,1.43,130.14,771.55,804.59,85.33,Infrastructure,Make in India,Moderate
+2028,8.58,4.43,3.96,1.41,100.18,689.22,913.11,95.85,Space,PLI Scheme,Strong
+2042,9.21,4.66,7.78,1.59,123.86,600.94,706.63,86.1,Space,Startup India,Strong
+2026,5.87,3.59,5.62,1.51,75.58,879.9,834.78,119.31,Space,Digital Push,Moderate
+2041,6.86,4.78,5.9,1.52,76.97,861.29,768.57,101.85,Infrastructure,Green Energy,Moderate
+2037,6.81,4.38,5.84,1.45,99.0,672.56,1013.22,97.66,Renewable Energy,Make in India,Very Strong
+2044,8.5,3.88,5.63,1.54,124.75,675.76,730.86,110.55,Infrastructure,Smart Cities,Moderate
+2047,5.21,4.81,5.43,1.53,129.04,892.41,928.8,98.02,AI,Digital Push,Positive
+2048,7.61,4.83,5.2,1.46,80.45,813.79,1015.16,81.14,Manufacturing,Smart Cities,Strong
+2047,6.99,4.24,6.26,1.45,128.11,535.61,767.2,84.74,Manufacturing,Digital Push,Strong
+2039,8.51,4.51,5.8,1.46,114.16,726.52,737.6,67.41,AI,Make in India,Very Strong
+2031,8.4,3.48,6.93,1.5,88.02,722.09,949.18,130.1,EV,Digital Push,Strong
+2031,7.49,5.07,6.68,1.51,76.65,779.72,570.63,108.61,Infrastructure,Digital Push,Moderate
+2038,5.94,3.57,5.27,1.5,115.75,750.73,880.28,38.81,Biotech,Make in India,Strong
+2044,6.74,3.71,6.31,1.56,142.24,688.47,599.45,116.66,Technology,PLI Scheme,Strong
+2047,6.83,4.24,5.78,1.46,110.89,771.4,991.14,60.68,Space,Smart Cities,Moderate
+2033,6.14,4.98,5.21,1.45,86.63,696.27,784.71,100.41,Infrastructure,PLI Scheme,Moderate
+2027,8.12,4.98,6.89,1.5,63.3,1159.7,807.29,45.92,Manufacturing,Smart Cities,Strong
+2046,6.04,4.2,6.08,1.42,148.24,764.73,718.61,81.44,Technology,Startup India,Positive
+2026,8.77,4.74,5.79,1.53,136.05,748.24,598.42,116.82,Biotech,Smart Cities,Moderate
+2040,8.77,3.02,5.34,1.5,117.55,971.14,997.22,117.93,EV,Smart Cities,Positive
+2026,6.89,3.7,5.17,1.48,146.95,586.28,796.05,96.14,Renewable Energy,Digital Push,Positive
+2030,7.46,3.71,8.19,1.48,115.6,736.8,1269.23,105.75,Renewable Energy,Startup India,Very Strong
+2041,7.14,5.08,6.53,1.55,96.72,636.05,706.57,61.73,Biotech,Make in India,Positive
+2044,7.92,4.66,5.11,1.54,123.88,826.2,729.46,100.77,Infrastructure,Make in India,Very Strong
+2029,8.22,4.33,6.49,1.49,89.26,690.68,694.39,107.02,Infrastructure,Green Energy,Positive
+2028,7.41,4.4,7.26,1.53,85.11,819.61,795.34,141.39,Technology,Startup India,Very Strong
+2042,7.58,5.3,6.37,1.54,129.29,810.97,1040.53,77.54,Technology,Digital Push,Moderate
+2042,6.7,4.08,7.57,1.52,131.39,843.64,961.42,90.33,EV,Green Energy,Strong
+2037,7.55,3.28,4.66,1.49,78.16,812.94,609.36,91.56,Infrastructure,Green Energy,Strong
+2039,7.33,4.96,4.21,1.52,79.08,723.12,988.58,103.97,Manufacturing,Make in India,Very Strong
+2046,6.47,4.33,6.46,1.45,98.87,582.28,915.59,107.61,Renewable Energy,Smart Cities,Moderate
+2031,7.19,4.87,6.48,1.5,92.22,871.09,887.39,111.22,EV,Digital Push,Very Strong
+2028,6.89,4.17,2.86,1.49,121.91,919.08,724.21,109.76,Space,Startup India,Very Strong
+2034,6.71,3.61,5.58,1.48,111.2,637.46,734.61,60.38,Technology,Green Energy,Moderate
+2030,6.28,4.48,5.19,1.41,139.12,838.31,839.19,37.74,Space,Digital Push,Positive
+2049,7.25,4.21,4.81,1.45,117.93,609.56,742.56,79.71,Manufacturing,Make in India,Positive
+2042,6.58,4.33,5.19,1.48,93.89,774.41,1003.77,89.29,Infrastructure,Green Energy,Moderate
+2039,6.82,5.33,6.8,1.54,62.72,799.13,736.57,77.73,AI,Green Energy,Very Strong
+2046,8.06,3.43,5.18,1.51,114.49,698.85,547.45,80.81,Technology,PLI Scheme,Strong
+2028,7.71,4.4,5.22,1.55,67.24,761.41,637.8,83.28,EV,Make in India,Very Strong
+2026,6.42,3.63,4.58,1.56,93.58,851.78,646.69,101.55,AI,PLI Scheme,Positive
+2045,7.48,2.39,7.47,1.52,91.96,736.87,783.13,69.33,Manufacturing,Make in India,Moderate
+2046,7.31,4.17,6.63,1.51,97.29,668.98,850.25,88.44,Space,Make in India,Moderate
+2048,8.56,4.22,3.71,1.45,77.1,603.15,827.53,88.6,Biotech,PLI Scheme,Moderate
+2026,8.31,4.64,5.22,1.6,91.87,703.11,884.53,101.09,Renewable Energy,Digital Push,Positive
+2028,5.97,4.05,6.73,1.43,138.65,609.03,784.68,113.24,Biotech,Digital Push,Very Strong
+2043,7.89,3.16,7.48,1.51,138.58,704.71,789.63,123.68,Biotech,Digital Push,Moderate
+2050,8.21,3.62,7.04,1.54,148.31,694.17,1065.26,75.08,Biotech,Smart Cities,Strong
+2035,7.65,5.12,5.84,1.54,110.25,846.49,988.75,50.0,Manufacturing,Green Energy,Moderate
+2047,6.93,3.61,4.27,1.44,116.78,758.82,877.16,85.16,Renewable Energy,Digital Push,Very Strong
+2028,9.13,5.31,7.07,1.48,139.02,1055.67,948.33,58.23,Manufacturing,Smart Cities,Positive
+2033,7.72,4.93,5.9,1.46,73.23,508.37,550.33,144.69,Biotech,Green Energy,Strong
+2039,8.78,3.98,6.27,1.4,130.14,787.6,704.84,72.54,Technology,Digital Push,Strong
+2049,8.28,3.69,6.02,1.51,142.56,695.81,759.49,101.28,Biotech,Make in India,Moderate
+2043,7.57,4.93,4.84,1.46,87.78,635.28,706.49,108.68,Technology,Startup India,Very Strong
+2040,6.74,4.03,6.56,1.58,144.57,746.43,603.6,96.81,EV,Digital Push,Moderate
+2047,7.18,3.12,6.43,1.53,161.44,737.45,878.88,131.53,Biotech,Startup India,Strong
+2048,7.02,4.59,5.77,1.5,129.45,879.34,1014.0,85.95,AI,Digital Push,Moderate
+2027,6.23,4.49,6.67,1.48,124.86,760.95,818.21,73.3,Manufacturing,Make in India,Very Strong
+2035,7.72,5.0,4.83,1.51,82.01,666.86,910.75,72.27,Biotech,Startup India,Positive
+2027,8.45,4.44,5.93,1.49,136.73,790.11,814.05,105.0,Manufacturing,Smart Cities,Strong
+2042,6.96,3.82,6.23,1.5,84.36,722.44,758.17,86.2,Space,Make in India,Very Strong
+2033,8.93,5.09,4.47,1.6,119.24,614.94,948.69,72.27,Biotech,Startup India,Moderate
+2026,5.95,5.16,6.14,1.45,121.78,720.17,620.05,98.83,AI,Startup India,Strong
+2034,8.04,4.36,6.93,1.49,27.59,777.71,559.12,104.18,Biotech,PLI Scheme,Moderate
+2036,8.54,4.24,5.9,1.54,120.15,758.67,618.08,95.43,Infrastructure,PLI Scheme,Moderate
+2047,7.04,3.27,6.17,1.48,175.54,789.64,939.5,107.99,EV,Make in India,Positive
+2041,7.05,3.77,6.76,1.58,57.7,686.82,832.21,91.76,Space,Make in India,Moderate
+2032,8.03,4.73,5.81,1.53,108.65,788.11,872.72,78.13,Manufacturing,Make in India,Moderate
+2035,7.6,3.81,5.9,1.46,61.32,764.41,1054.77,106.23,Space,Green Energy,Very Strong
+2048,5.6,3.18,5.02,1.51,87.65,765.39,657.13,72.2,EV,Smart Cities,Moderate
+2028,6.53,6.65,6.19,1.46,61.76,753.88,988.58,67.42,Manufacturing,Digital Push,Positive
+2043,7.19,3.18,5.87,1.46,113.99,1011.13,764.51,113.12,Manufacturing,PLI Scheme,Moderate
+2050,6.1,5.78,6.7,1.49,129.84,883.22,743.23,83.04,Infrastructure,Startup India,Moderate
+2049,6.82,3.98,6.76,1.56,120.24,785.45,831.37,123.31,Biotech,PLI Scheme,Moderate
+2038,6.12,4.14,6.99,1.54,86.75,653.98,853.28,107.13,Technology,Digital Push,Strong
+2032,6.9,3.73,5.69,1.5,94.77,714.92,790.52,81.52,EV,Make in India,Positive
+2050,6.93,4.75,4.02,1.54,116.81,943.89,905.44,99.72,AI,PLI Scheme,Strong
+2029,7.48,3.19,6.94,1.51,87.53,682.45,831.93,140.57,EV,Smart Cities,Positive
+2038,7.13,2.91,6.63,1.44,76.78,730.11,792.09,105.09,Biotech,Smart Cities,Positive
+2045,7.6,5.33,5.56,1.49,104.02,723.43,761.72,101.63,Infrastructure,Green Energy,Very Strong
+2026,7.51,3.64,6.75,1.5,86.38,794.15,853.37,78.11,Renewable Energy,PLI Scheme,Strong
+2033,8.03,4.72,4.75,1.54,120.29,697.6,630.07,126.89,Space,Make in India,Positive
+2039,7.9,3.44,7.23,1.47,142.47,771.22,669.58,116.36,Renewable Energy,Startup India,Positive
+2041,7.81,4.7,5.87,1.45,174.94,700.28,768.56,78.29,Infrastructure,Green Energy,Very Strong
+2039,9.68,5.38,5.37,1.5,118.45,907.74,896.28,127.61,Space,Make in India,Strong
+2037,7.48,3.83,5.58,1.47,126.15,667.65,1120.0,93.3,Biotech,Green Energy,Moderate
+2044,9.27,2.85,5.97,1.48,95.02,867.32,797.69,73.19,Infrastructure,PLI Scheme,Very Strong
+2048,7.53,5.38,6.19,1.5,96.57,679.78,571.61,78.03,Technology,Digital Push,Positive
+2040,7.13,4.85,6.25,1.48,142.1,647.55,709.37,107.55,EV,PLI Scheme,Strong
+2027,6.9,3.87,5.77,1.55,103.09,665.9,912.24,73.33,Biotech,Make in India,Positive
+2027,8.41,4.05,6.4,1.57,111.82,544.63,684.16,67.94,Space,Startup India,Very Strong
+2048,8.51,3.42,6.21,1.54,140.57,802.63,637.2,81.22,EV,Startup India,Very Strong
+2047,7.68,5.19,5.55,1.41,103.28,610.32,911.51,84.21,Renewable Energy,Make in India,Strong
+2044,8.11,3.83,5.4,1.47,147.51,707.05,885.08,76.53,Biotech,Green Energy,Very Strong
+2050,6.18,3.21,6.81,1.49,124.33,841.39,613.84,80.92,AI,Smart Cities,Very Strong
+2047,5.96,4.35,6.72,1.41,121.38,837.52,694.7,108.34,EV,Make in India,Moderate
+2047,8.2,3.6,6.26,1.46,93.8,578.2,994.25,95.13,Manufacturing,PLI Scheme,Positive
+2042,7.1,3.48,7.12,1.49,122.73,787.27,939.4,79.69,Space,Startup India,Moderate
+2045,7.8,3.9,4.24,1.48,99.27,886.86,652.37,81.44,Manufacturing,Digital Push,Moderate
+2035,6.63,4.26,5.64,1.5,121.74,673.58,541.56,87.37,Technology,Startup India,Strong
+2031,8.53,3.23,5.04,1.43,107.45,811.63,857.59,88.51,Space,Smart Cities,Very Strong
+2040,5.97,5.17,8.46,1.48,134.17,612.81,778.55,88.6,Biotech,Startup India,Positive
+2047,6.09,4.67,6.91,1.51,109.21,796.28,845.44,107.6,Space,Smart Cities,Positive
+2036,8.36,3.94,6.12,1.5,160.95,765.75,908.85,93.94,Technology,Make in India,Positive
+2030,5.11,3.57,6.98,1.52,103.11,829.34,686.12,94.53,Space,Startup India,Very Strong
+2026,7.5,4.14,7.32,1.52,96.64,821.9,759.5,118.54,Biotech,Green Energy,Positive
+2033,7.11,4.83,7.31,1.48,118.65,587.58,694.13,127.53,Renewable Energy,PLI Scheme,Positive
+2046,6.61,4.72,7.12,1.51,136.95,766.39,699.15,65.38,AI,Green Energy,Very Strong
+2037,7.04,4.94,5.94,1.46,136.75,924.35,899.07,58.42,AI,PLI Scheme,Strong
+2037,6.52,3.86,5.7,1.49,114.17,487.76,840.17,83.01,Infrastructure,Startup India,Positive
+2030,8.43,2.15,5.24,1.45,118.48,866.03,601.19,105.66,Technology,Startup India,Very Strong
+2032,8.64,5.07,6.7,1.55,118.51,942.2,921.51,97.52,Biotech,PLI Scheme,Moderate
+2029,6.65,4.08,6.04,1.49,83.05,571.84,770.99,111.08,EV,Digital Push,Very Strong
+2031,7.42,4.67,5.78,1.55,135.6,669.52,927.96,82.15,Manufacturing,Startup India,Moderate
+2038,6.14,5.37,5.73,1.52,78.55,812.13,677.94,50.87,EV,Digital Push,Very Strong
+2045,8.06,5.9,7.65,1.46,83.1,643.66,690.4,62.66,Manufacturing,Digital Push,Positive
+2040,8.04,3.75,7.15,1.51,111.38,913.75,855.24,101.29,Renewable Energy,PLI Scheme,Strong
+2028,6.96,4.29,8.03,1.54,102.0,877.07,666.5,111.24,Manufacturing,Digital Push,Strong
+2048,7.21,5.16,6.73,1.5,129.9,583.8,781.52,51.86,EV,Digital Push,Positive
+2033,7.12,3.61,6.26,1.5,121.18,660.83,650.59,118.21,Space,Make in India,Moderate
+2045,5.91,3.79,6.17,1.47,113.46,842.38,765.21,99.29,EV,Green Energy,Very Strong
+2041,8.44,3.79,5.18,1.5,81.86,837.68,815.54,88.59,AI,Digital Push,Positive
+2038,6.59,4.18,4.94,1.51,110.66,1016.21,822.14,77.46,Biotech,Green Energy,Very Strong
+2043,6.59,4.05,6.71,1.47,108.69,644.41,768.94,121.82,AI,Digital Push,Positive
+2035,7.08,3.78,5.27,1.45,115.55,925.11,866.67,107.94,Technology,Green Energy,Positive
+2044,8.0,3.52,6.41,1.56,99.25,640.33,840.69,99.82,Space,Startup India,Very Strong
+2042,6.73,4.77,7.32,1.53,123.07,810.04,807.49,75.37,EV,Startup India,Strong
+2049,5.64,5.14,5.53,1.47,101.34,857.08,732.38,122.28,Space,Green Energy,Strong
+2044,6.49,5.24,8.21,1.51,120.73,390.73,969.55,90.61,Space,Digital Push,Moderate
+2048,7.54,3.86,5.21,1.43,129.9,859.34,874.08,95.98,Biotech,Make in India,Very Strong
+2030,8.95,4.8,7.19,1.4,96.64,916.15,674.94,91.46,Renewable Energy,Green Energy,Moderate
+2046,6.19,4.37,6.62,1.55,90.7,881.51,910.84,74.69,Manufacturing,Smart Cities,Positive
+2048,6.16,3.8,7.39,1.51,121.91,996.4,942.57,96.39,Technology,Make in India,Moderate
+2034,5.99,4.71,5.08,1.5,76.97,865.82,808.58,103.94,Infrastructure,Smart Cities,Positive
+2037,5.89,3.77,8.51,1.51,137.79,685.54,817.89,81.17,Space,Green Energy,Very Strong
+2046,8.16,3.94,6.02,1.66,110.27,898.68,531.76,94.68,Infrastructure,Digital Push,Very Strong
+2026,8.4,3.24,6.88,1.54,107.13,678.72,701.92,91.17,Biotech,Smart Cities,Very Strong
+2026,7.34,3.88,7.64,1.45,123.65,759.89,938.12,108.3,Manufacturing,Green Energy,Very Strong
+2040,6.83,4.38,5.6,1.42,122.1,849.81,710.43,84.02,Manufacturing,Make in India,Moderate
+2027,8.63,5.3,7.03,1.55,110.16,803.77,797.62,94.53,Biotech,Digital Push,Positive
+2047,7.34,3.95,5.43,1.54,131.97,912.14,699.79,98.74,Manufacturing,Smart Cities,Strong
+2041,8.07,3.47,7.6,1.53,93.19,1048.64,852.31,83.57,AI,Green Energy,Very Strong
+2050,6.79,5.25,5.44,1.46,127.81,613.52,875.12,73.49,Manufacturing,Digital Push,Very Strong
+2033,7.24,3.85,6.24,1.52,83.03,710.6,878.87,76.75,Infrastructure,Digital Push,Positive
+2038,6.21,2.98,6.51,1.46,122.77,787.97,660.49,98.18,Manufacturing,Startup India,Strong
+2046,7.7,4.29,6.98,1.53,101.8,694.42,834.94,85.29,EV,Digital Push,Very Strong
+2026,7.35,3.97,8.17,1.55,77.22,740.92,1040.72,85.03,Biotech,Green Energy,Strong
+2041,6.48,5.81,5.75,1.47,116.42,843.1,924.79,102.08,Renewable Energy,Make in India,Very Strong
+2032,6.5,4.53,7.34,1.56,109.14,827.15,833.07,110.39,Infrastructure,PLI Scheme,Moderate
+2030,8.49,4.1,8.17,1.51,71.43,779.68,549.66,113.83,Renewable Energy,Startup India,Moderate
+2047,8.78,3.55,6.37,1.52,57.16,767.73,785.09,77.75,Infrastructure,Green Energy,Strong
+2048,7.03,4.43,5.65,1.43,106.19,723.14,1050.49,108.45,Space,Green Energy,Positive
+2028,7.25,5.22,4.47,1.51,150.46,918.54,1004.6,131.7,Technology,Green Energy,Positive
+2037,7.52,4.42,8.08,1.47,118.03,949.61,884.6,92.52,EV,Smart Cities,Moderate
+2041,7.32,3.61,5.96,1.52,93.29,872.26,719.29,88.53,Infrastructure,Smart Cities,Positive
+2044,5.86,4.58,5.2,1.57,137.05,612.07,827.32,84.36,Space,Make in India,Positive
+2030,7.54,4.17,4.84,1.51,132.68,718.53,928.29,68.72,EV,Green Energy,Positive
+2047,5.53,4.51,5.2,1.45,141.79,773.96,951.68,106.85,Infrastructure,Smart Cities,Strong
+2050,6.61,3.95,7.12,1.53,127.1,637.12,863.77,88.62,Renewable Energy,Smart Cities,Strong
+2039,7.6,3.94,7.26,1.52,132.15,759.49,939.71,87.01,Renewable Energy,Smart Cities,Positive
+2030,7.68,3.91,6.85,1.6,128.28,752.67,811.78,103.75,Biotech,Make in India,Moderate
+2040,6.55,4.86,6.33,1.51,98.06,880.1,805.59,105.59,Infrastructure,Make in India,Positive
+2042,6.83,3.94,4.95,1.47,69.07,690.21,755.75,77.98,Infrastructure,Green Energy,Very Strong
+2039,6.72,3.88,5.47,1.54,96.97,889.6,879.44,78.46,AI,Startup India,Moderate
+2045,7.12,3.54,5.09,1.49,137.62,635.12,960.05,77.57,EV,Green Energy,Strong
+2030,7.18,4.52,6.77,1.5,100.47,651.86,919.18,132.27,EV,Smart Cities,Very Strong
+2037,7.73,4.42,5.14,1.45,106.36,704.48,649.47,119.54,EV,PLI Scheme,Positive
+2041,6.79,3.89,5.49,1.49,80.86,755.74,656.97,104.14,EV,Smart Cities,Positive
+2041,7.5,3.7,6.02,1.5,96.22,460.02,974.51,82.49,Technology,Digital Push,Moderate
+2046,7.61,5.51,4.53,1.49,109.77,805.12,844.72,84.86,Technology,PLI Scheme,Moderate
+2032,7.36,2.88,6.25,1.47,122.31,955.12,850.19,97.27,Space,PLI Scheme,Positive
+2029,6.99,4.55,6.09,1.51,98.53,828.15,847.04,134.18,Manufacturing,Green Energy,Positive
+2026,7.34,5.1,7.38,1.45,96.79,724.72,1065.23,95.78,Infrastructure,Smart Cities,Moderate
+2030,7.8,1.83,5.38,1.44,131.05,619.85,757.52,100.18,Infrastructure,Smart Cities,Very Strong
+2048,7.87,4.76,4.9,1.54,118.13,532.44,976.33,39.02,Infrastructure,Startup India,Strong
+2035,8.65,4.05,5.83,1.53,121.22,552.84,852.7,95.15,Infrastructure,Digital Push,Moderate
+2047,6.41,4.38,5.1,1.43,148.21,734.3,595.93,62.12,EV,Green Energy,Very Strong
+2030,6.85,3.97,6.24,1.41,97.37,1002.83,704.52,80.26,EV,Make in India,Positive
+2029,5.91,4.95,4.34,1.45,108.77,423.95,735.02,90.94,Technology,Green Energy,Strong
+2027,7.94,4.45,5.59,1.49,123.78,834.03,973.04,83.96,Renewable Energy,PLI Scheme,Very Strong
+2045,6.93,4.29,5.27,1.56,88.21,668.67,991.82,77.28,AI,Green Energy,Strong
+2035,7.36,3.57,6.77,1.49,115.73,709.74,869.54,77.46,EV,Startup India,Strong
+2044,6.72,5.52,5.39,1.46,110.55,637.48,746.81,85.78,EV,Green Energy,Strong
+2026,6.94,4.21,4.46,1.51,179.43,585.91,692.46,84.91,Biotech,Startup India,Very Strong
+2049,8.18,5.8,6.0,1.49,112.5,765.08,979.26,90.41,EV,PLI Scheme,Very Strong
+2030,7.76,5.55,6.52,1.43,138.92,781.54,640.16,88.91,Renewable Energy,Startup India,Positive
+2038,7.11,2.96,5.93,1.43,130.75,830.2,805.46,115.58,Renewable Energy,Smart Cities,Strong
+2029,7.81,3.74,5.59,1.43,81.09,547.77,1151.03,49.01,Technology,Make in India,Moderate
+2041,7.83,3.47,5.53,1.62,71.28,854.88,747.23,94.9,EV,PLI Scheme,Moderate
+2049,6.89,4.17,6.31,1.54,116.18,857.02,641.96,91.42,Space,Startup India,Moderate
+2041,6.02,4.33,5.31,1.47,141.43,800.94,572.84,87.32,Biotech,Digital Push,Very Strong
+2048,6.48,4.36,5.87,1.56,117.2,699.48,1156.56,75.88,AI,PLI Scheme,Positive
+2027,6.13,4.94,6.95,1.47,111.97,787.01,868.81,87.01,Infrastructure,Digital Push,Very Strong
+2042,8.13,5.25,4.9,1.55,102.9,730.75,698.33,57.33,EV,Make in India,Strong
+2045,8.27,4.88,6.16,1.5,76.9,866.22,793.52,94.13,Technology,Startup India,Moderate
+2049,8.47,3.81,4.41,1.47,85.99,706.01,727.19,97.76,Technology,PLI Scheme,Very Strong
+2037,5.58,3.65,6.43,1.53,69.44,762.96,559.1,75.92,Space,PLI Scheme,Moderate
+2043,8.06,4.2,5.22,1.51,82.42,541.4,930.34,128.81,AI,Make in India,Very Strong
+2028,8.97,4.5,7.22,1.52,96.85,786.64,824.73,87.59,Biotech,Smart Cities,Moderate
+2026,8.09,4.07,4.72,1.51,129.4,660.05,918.7,90.88,Manufacturing,Digital Push,Strong
+2026,5.48,3.26,6.64,1.51,98.87,811.5,820.92,116.72,Technology,PLI Scheme,Moderate
+2044,8.61,4.68,7.42,1.54,116.39,844.61,838.37,132.84,Renewable Energy,Green Energy,Strong
+2036,7.23,3.93,5.17,1.63,113.38,676.8,507.12,67.53,Renewable Energy,Digital Push,Strong
+2030,7.01,3.9,5.34,1.56,122.48,753.74,947.1,78.46,Infrastructure,Startup India,Very Strong
+2037,7.56,4.16,5.26,1.51,84.13,770.94,667.64,87.95,Technology,Make in India,Very Strong
+2028,6.36,4.03,5.71,1.48,136.48,794.17,703.51,75.14,Biotech,Digital Push,Very Strong
+2026,7.2,3.94,6.72,1.49,74.82,844.78,746.1,106.92,Infrastructure,Green Energy,Strong
+2026,8.5,3.3,5.63,1.44,98.8,829.08,531.78,72.94,Technology,Green Energy,Positive
+2033,7.7,4.12,5.08,1.53,109.48,704.41,738.44,115.33,AI,Make in India,Positive
+2035,7.25,4.69,4.18,1.45,129.0,941.8,728.69,102.47,EV,Make in India,Strong
+2036,7.27,4.39,7.8,1.48,144.48,840.24,767.1,113.28,Biotech,Digital Push,Strong
+2037,6.25,4.86,7.88,1.53,129.2,918.62,581.83,73.03,Technology,Startup India,Very Strong
+2038,7.08,3.69,6.76,1.49,145.4,791.6,949.88,82.33,Biotech,Smart Cities,Very Strong
+2037,5.89,3.31,5.39,1.48,89.27,798.7,875.73,107.96,Manufacturing,Green Energy,Very Strong
+2039,8.02,4.03,6.95,1.44,139.76,735.94,699.03,104.33,Biotech,Make in India,Positive
+2027,5.45,3.77,7.15,1.56,135.47,696.75,738.58,84.26,Biotech,Smart Cities,Positive
+2044,7.88,3.84,5.95,1.46,50.09,867.04,937.34,87.11,Renewable Energy,Smart Cities,Strong
+2043,7.98,4.35,6.24,1.47,104.49,781.75,783.95,81.31,AI,Smart Cities,Positive
+2028,8.26,3.85,7.43,1.41,125.05,734.21,646.32,86.57,EV,Startup India,Very Strong
+2048,7.27,3.32,4.56,1.5,97.11,627.29,808.3,70.69,EV,Make in India,Very Strong
+2042,7.93,3.81,7.2,1.48,82.85,936.61,667.7,67.34,Renewable Energy,Green Energy,Very Strong
+2033,7.07,4.44,5.89,1.51,162.85,763.52,720.9,110.11,Biotech,Make in India,Very Strong
+2035,6.25,4.67,5.09,1.44,112.78,602.79,812.91,85.89,EV,Digital Push,Very Strong
+2027,8.42,4.66,5.17,1.54,113.46,759.77,967.73,113.03,Infrastructure,Green Energy,Moderate
+2044,7.12,4.5,5.34,1.41,77.28,725.89,1103.27,101.92,AI,Make in India,Strong
+2034,6.07,4.08,4.99,1.5,94.69,720.97,1010.77,96.24,Manufacturing,Green Energy,Strong
+2032,6.83,4.48,7.97,1.51,87.55,819.15,809.94,75.8,Renewable Energy,Digital Push,Positive
+2029,6.86,4.17,6.69,1.5,136.97,726.06,1136.03,65.78,Technology,PLI Scheme,Very Strong
+2046,7.57,4.28,7.26,1.51,122.62,713.34,898.16,80.86,Technology,Green Energy,Moderate
+2043,9.08,3.54,6.76,1.54,95.74,913.49,682.84,120.64,Technology,PLI Scheme,Very Strong
+2038,7.62,4.23,6.26,1.57,124.01,541.25,833.24,107.78,Space,Smart Cities,Very Strong
+2036,7.37,4.47,6.27,1.49,103.66,743.83,728.03,78.99,AI,Startup India,Positive
+2049,9.16,4.44,5.8,1.45,115.86,861.46,645.29,81.09,Manufacturing,Digital Push,Moderate
+2029,7.98,3.3,5.88,1.53,115.74,825.23,655.61,71.42,EV,Green Energy,Moderate
+2050,7.4,4.27,4.79,1.49,120.51,872.41,799.39,59.06,Manufacturing,Digital Push,Strong
+2046,6.82,3.19,7.28,1.56,117.49,992.59,925.59,92.03,Manufacturing,Smart Cities,Very Strong
+2050,7.45,4.32,4.39,1.47,120.53,953.87,969.55,124.5,Renewable Energy,PLI Scheme,Moderate
+2029,7.15,3.71,5.14,1.46,141.4,611.34,645.74,124.75,AI,Startup India,Strong
+2035,7.27,5.39,8.21,1.51,126.01,556.72,777.54,102.16,Technology,Digital Push,Moderate
+2030,8.25,4.28,6.34,1.41,101.58,789.22,888.12,77.95,Renewable Energy,PLI Scheme,Very Strong
+2034,6.77,4.76,6.38,1.48,107.55,587.51,841.26,61.01,EV,Smart Cities,Strong
+2049,7.61,5.68,6.84,1.48,140.75,518.82,917.24,110.94,Manufacturing,Smart Cities,Moderate
+2028,7.96,3.63,4.66,1.51,112.81,787.95,759.14,98.94,Biotech,Smart Cities,Positive
+2042,6.67,4.5,4.81,1.45,100.65,818.05,998.21,83.68,Technology,PLI Scheme,Moderate
+2028,6.54,3.37,5.76,1.46,94.22,955.34,819.41,80.33,Space,Green Energy,Very Strong
+2041,7.08,4.44,5.3,1.56,116.83,842.21,926.08,102.01,AI,Make in India,Positive
+2029,6.83,5.44,6.13,1.5,88.63,980.35,766.69,73.47,Infrastructure,Digital Push,Moderate
+2043,8.12,3.76,6.69,1.54,142.12,792.67,828.17,94.78,Space,Make in India,Moderate
+2042,6.4,3.58,7.59,1.47,84.05,613.65,596.56,65.6,Manufacturing,Smart Cities,Strong
+2032,7.25,4.14,7.01,1.5,146.95,848.66,702.85,134.57,Manufacturing,Make in India,Very Strong
+2049,9.24,5.63,5.21,1.51,102.87,910.12,790.96,76.26,Manufacturing,PLI Scheme,Moderate
+2048,7.53,4.74,5.83,1.59,83.08,796.93,834.01,102.97,Manufacturing,Smart Cities,Moderate
+2030,7.66,3.57,5.55,1.49,114.73,924.07,1195.37,66.04,Technology,Smart Cities,Moderate
+2037,8.13,5.22,5.18,1.49,86.17,735.21,766.53,86.73,AI,Startup India,Very Strong
+2042,6.83,3.04,4.96,1.55,110.86,815.51,627.27,107.69,Space,Startup India,Positive
+2048,6.33,5.7,7.86,1.48,95.56,729.08,1058.35,112.02,Renewable Energy,PLI Scheme,Very Strong
+2038,7.34,4.8,6.21,1.51,133.63,1035.49,971.04,105.27,Technology,PLI Scheme,Strong
+2048,7.41,5.43,5.98,1.55,113.42,850.95,658.09,87.24,AI,Make in India,Strong
+2050,5.91,3.05,6.68,1.47,80.29,616.0,885.14,76.68,Space,Digital Push,Very Strong
+2028,7.5,4.32,6.73,1.52,95.07,972.31,936.93,68.45,Renewable Energy,Make in India,Moderate
+2034,8.06,4.11,7.32,1.59,127.62,662.02,842.94,120.08,Manufacturing,PLI Scheme,Moderate
+2042,6.47,3.5,5.46,1.55,142.18,751.64,865.62,92.07,AI,Digital Push,Positive
+2042,7.55,3.29,6.6,1.51,108.87,806.2,731.48,95.76,Manufacturing,Make in India,Very Strong
+2045,7.91,4.55,5.29,1.49,83.89,816.0,890.53,113.31,Biotech,Green Energy,Very Strong
+2041,7.67,4.62,6.01,1.47,136.35,808.05,751.21,101.73,AI,Green Energy,Moderate
+2050,7.74,5.11,6.26,1.45,127.51,614.03,449.64,87.45,EV,Digital Push,Strong
+2047,7.0,3.85,6.35,1.58,142.66,808.44,847.48,104.89,Infrastructure,Startup India,Strong
+2038,6.3,4.1,6.31,1.57,117.26,882.08,585.37,77.55,Manufacturing,Digital Push,Positive
+2044,6.84,3.23,7.0,1.47,96.99,878.62,961.89,58.98,Manufacturing,Make in India,Positive
+2042,6.73,5.28,5.6,1.52,122.92,593.78,661.69,118.24,Manufacturing,Smart Cities,Strong
+2029,7.14,4.25,6.38,1.51,118.16,671.32,476.58,79.22,EV,Green Energy,Very Strong
+2037,8.07,4.71,5.44,1.56,95.63,624.66,572.3,83.91,Technology,Smart Cities,Positive
+2034,6.15,4.73,9.12,1.52,114.97,790.78,814.19,85.68,Renewable Energy,Green Energy,Moderate
+2044,7.32,5.22,5.29,1.5,105.12,563.8,846.11,77.96,Manufacturing,Make in India,Very Strong
+2037,6.35,3.62,5.5,1.47,128.59,615.27,622.23,112.03,Manufacturing,Green Energy,Moderate
+2034,6.61,4.69,7.08,1.52,122.3,670.18,669.87,97.49,Space,Digital Push,Positive
+2032,7.65,4.18,5.77,1.48,83.71,534.39,818.87,83.92,Space,Smart Cities,Strong
+2039,6.25,5.67,7.08,1.51,81.19,746.66,956.11,64.49,Technology,PLI Scheme,Positive
+2045,7.79,3.62,6.35,1.5,107.75,497.22,650.59,96.08,Technology,Smart Cities,Strong
+2044,6.12,5.02,5.8,1.48,110.82,808.24,873.08,40.99,Infrastructure,Make in India,Very Strong
+2040,7.73,4.45,5.45,1.45,129.02,702.36,576.58,94.65,AI,PLI Scheme,Positive
+2041,5.96,4.41,5.41,1.53,122.83,675.12,864.22,116.86,Manufacturing,Smart Cities,Positive
+2046,6.71,4.24,5.81,1.5,146.47,694.71,925.81,91.29,AI,Make in India,Positive
+2030,8.72,5.14,6.03,1.59,98.32,742.75,893.39,114.13,Biotech,Startup India,Very Strong
+2028,8.57,4.38,5.37,1.45,96.89,821.14,959.22,65.42,Technology,Digital Push,Moderate
+2037,6.87,3.13,6.09,1.53,86.0,908.05,949.88,130.77,Technology,Green Energy,Moderate
+2050,7.51,5.05,5.11,1.5,128.74,871.67,1078.57,111.95,Infrastructure,Green Energy,Strong
+2045,8.16,4.93,6.96,1.6,110.54,1017.8,835.21,99.52,Renewable Energy,Green Energy,Positive
+2046,7.75,4.61,7.15,1.53,63.66,831.04,1078.98,78.03,EV,Startup India,Moderate
+2029,6.98,3.41,5.5,1.52,115.05,766.84,687.83,74.71,EV,Digital Push,Very Strong
+2046,6.6,3.52,5.44,1.5,116.65,695.16,791.25,88.58,EV,Smart Cities,Positive
+2048,7.89,2.89,6.38,1.46,106.39,699.14,803.9,114.06,Technology,Smart Cities,Strong
+2041,8.1,4.52,7.47,1.52,117.42,814.68,674.01,63.69,Manufacturing,Digital Push,Moderate
+2050,8.57,3.26,7.69,1.43,79.49,630.07,489.51,90.21,Space,PLI Scheme,Very Strong
+2032,5.85,3.0,4.8,1.43,151.03,777.48,941.7,104.68,Infrastructure,Digital Push,Very Strong
+2038,6.2,5.09,7.21,1.55,119.51,747.74,689.81,108.59,Renewable Energy,Green Energy,Strong
+2046,8.13,4.74,6.14,1.41,65.66,662.63,763.88,104.62,Biotech,Smart Cities,Moderate
+2035,5.96,3.97,6.16,1.48,109.85,623.86,1041.84,61.65,EV,Digital Push,Positive
+2032,8.19,4.11,6.7,1.45,120.17,1052.97,900.09,112.64,Infrastructure,Smart Cities,Very Strong
+2039,7.03,2.51,5.72,1.48,82.18,582.41,1063.63,91.34,Space,Digital Push,Strong
+2030,6.78,4.84,7.3,1.51,123.34,741.87,836.87,68.29,Space,Make in India,Very Strong
+2028,7.36,3.72,7.62,1.55,152.02,896.71,897.77,89.52,Technology,Green Energy,Very Strong
+2048,6.12,4.43,7.66,1.56,93.89,813.49,786.31,50.83,EV,Digital Push,Moderate
+2036,7.86,2.46,4.36,1.45,120.71,693.18,701.18,101.57,Renewable Energy,Startup India,Moderate
+2036,8.55,4.88,5.97,1.48,115.21,606.94,897.25,87.45,Biotech,Digital Push,Positive
+2043,7.9,3.67,4.26,1.7,134.21,765.57,758.97,64.6,AI,Make in India,Very Strong
+2040,7.0,3.24,5.43,1.49,107.28,433.26,910.23,84.2,Space,Startup India,Strong
+2037,5.97,3.96,3.8,1.46,83.33,770.38,740.13,75.85,Space,Startup India,Very Strong
+2034,6.0,3.78,6.65,1.46,132.6,754.18,795.45,77.13,Biotech,Digital Push,Strong
+2035,6.14,4.95,6.42,1.49,84.82,878.41,806.66,44.78,Space,Make in India,Very Strong
+2037,7.19,3.91,5.77,1.48,155.22,612.8,970.78,56.56,Renewable Energy,Startup India,Strong
+2042,7.29,5.15,5.41,1.49,124.02,711.18,760.59,85.41,Biotech,Green Energy,Very Strong
+2031,7.89,4.43,6.51,1.5,95.03,802.43,986.18,81.96,Manufacturing,PLI Scheme,Very Strong
+2032,5.76,4.83,5.19,1.5,137.72,774.67,693.32,109.48,EV,Green Energy,Positive
+2039,8.25,4.2,5.12,1.45,109.77,588.88,857.78,77.36,EV,Smart Cities,Moderate
+2038,7.76,5.09,5.0,1.52,104.46,672.3,723.74,79.46,AI,Smart Cities,Moderate
+2033,6.94,3.39,6.0,1.51,92.98,917.99,976.2,80.4,Biotech,Make in India,Strong
+2035,6.25,4.28,5.62,1.52,63.05,781.12,705.39,86.06,AI,Startup India,Very Strong
+2034,8.2,3.92,5.82,1.41,125.11,550.31,719.66,91.83,Biotech,Green Energy,Very Strong
+2043,6.96,5.18,6.72,1.51,69.3,855.99,644.12,81.87,EV,Green Energy,Moderate
+2027,7.18,5.25,7.16,1.4,90.17,558.09,834.43,101.42,Manufacturing,PLI Scheme,Strong
+2030,7.51,4.2,7.65,1.49,120.82,713.16,902.75,136.0,Space,Make in India,Positive
+2030,6.47,3.3,6.26,1.53,97.48,817.59,887.64,73.49,Biotech,Startup India,Positive
+2031,6.97,4.5,6.55,1.55,113.93,895.64,799.81,97.84,AI,Make in India,Positive
+2044,7.89,3.03,6.39,1.52,79.66,469.45,727.52,90.59,Technology,Digital Push,Very Strong
+2033,7.81,5.34,4.53,1.53,101.29,835.39,780.98,110.94,Space,Green Energy,Strong
+2041,7.82,3.87,5.83,1.49,114.08,853.41,786.33,94.06,EV,Make in India,Moderate
+2038,6.28,4.18,5.83,1.47,86.21,683.16,855.37,75.47,Renewable Energy,Make in India,Very Strong
+2026,7.01,3.72,5.69,1.63,152.16,760.91,845.74,66.7,Renewable Energy,PLI Scheme,Very Strong
+2047,6.88,3.57,6.16,1.54,94.06,383.76,1063.56,102.21,Space,Digital Push,Positive
+2045,7.54,4.72,5.98,1.44,144.46,420.24,825.55,68.32,Manufacturing,Smart Cities,Strong
+2042,7.47,4.09,5.21,1.41,105.8,883.02,870.51,113.67,Technology,Green Energy,Strong
+2032,7.32,4.23,6.05,1.48,70.79,685.33,830.0,101.06,AI,PLI Scheme,Positive
+2050,9.17,3.5,5.56,1.56,81.58,708.45,774.26,91.73,Biotech,Make in India,Positive
+2038,6.97,4.8,3.58,1.5,114.4,778.16,869.57,63.75,EV,Green Energy,Positive
+2029,6.87,4.87,4.8,1.39,135.82,706.09,761.11,103.51,Renewable Energy,Smart Cities,Very Strong
+2029,6.27,4.05,6.29,1.49,154.24,694.96,811.85,122.34,Renewable Energy,Make in India,Very Strong
+2031,5.97,5.09,7.29,1.5,113.21,797.34,982.3,81.5,Renewable Energy,Digital Push,Very Strong
+2044,6.22,4.13,3.77,1.38,80.57,570.54,752.05,75.16,Renewable Energy,Green Energy,Moderate
+2037,6.63,4.75,5.33,1.5,116.96,889.19,874.23,88.16,Infrastructure,PLI Scheme,Moderate
+2047,8.25,3.06,6.63,1.45,89.37,722.37,472.61,99.34,Manufacturing,Digital Push,Strong
+2032,7.23,4.45,7.08,1.41,119.8,629.32,794.05,79.38,AI,Smart Cities,Positive
+2035,7.35,4.01,5.78,1.58,86.46,613.17,751.1,107.98,EV,Smart Cities,Positive
+2044,7.12,4.31,5.52,1.45,57.76,755.12,836.84,128.21,EV,Green Energy,Very Strong
+2032,7.49,4.28,7.42,1.47,142.92,713.24,786.93,96.6,EV,Smart Cities,Moderate
+2028,8.32,4.29,7.0,1.47,104.34,564.14,839.81,83.5,AI,Startup India,Positive
+2038,5.6,4.63,7.06,1.5,111.24,677.78,766.99,98.8,Manufacturing,PLI Scheme,Strong
+2038,8.17,3.8,5.73,1.59,134.92,652.9,874.09,113.55,Space,Green Energy,Positive
+2043,5.19,4.6,7.31,1.44,156.97,901.42,579.95,93.19,Space,Startup India,Very Strong
+2045,7.22,5.06,4.25,1.48,128.0,765.65,835.6,99.7,Technology,Smart Cities,Very Strong
+2033,8.95,3.21,7.33,1.51,112.58,938.32,688.81,104.1,Biotech,Green Energy,Moderate
+2034,7.74,3.65,6.13,1.46,121.57,664.8,983.5,72.49,Space,Startup India,Strong
+2032,7.5,3.68,6.33,1.48,102.63,715.06,686.55,99.18,Biotech,Smart Cities,Strong
+2026,8.8,3.44,5.25,1.53,110.9,796.39,959.33,63.16,Manufacturing,Make in India,Positive
+2028,6.64,3.87,4.39,1.46,113.62,822.5,818.39,76.83,Renewable Energy,Make in India,Strong
+2038,7.55,4.92,6.31,1.48,90.33,836.52,563.97,112.91,Biotech,Digital Push,Positive
+2050,7.66,5.21,6.75,1.48,110.53,643.46,697.32,107.42,Renewable Energy,Make in India,Positive
+2042,6.78,4.27,6.9,1.49,119.18,646.84,938.69,84.6,Manufacturing,Startup India,Moderate
+2050,6.85,3.97,6.79,1.51,122.93,707.35,930.74,124.12,Manufacturing,PLI Scheme,Strong
+2049,6.76,4.76,6.57,1.53,120.93,927.71,638.09,63.8,AI,Make in India,Very Strong
+2026,7.27,2.55,5.28,1.6,76.52,629.92,1038.8,85.9,AI,Green Energy,Positive
+2031,7.64,3.46,6.97,1.37,140.73,686.77,816.56,95.5,Infrastructure,Green Energy,Positive
+2046,7.3,2.57,5.16,1.49,138.66,837.58,943.88,33.84,EV,Green Energy,Positive
+2031,7.77,3.45,7.31,1.43,107.6,831.16,650.34,86.85,Infrastructure,Make in India,Strong
+2037,5.62,3.66,6.12,1.48,121.39,816.65,756.17,67.51,EV,Make in India,Strong
+2038,7.03,5.23,6.15,1.54,104.59,759.7,878.23,67.97,Renewable Energy,Digital Push,Strong
+2038,6.38,2.27,7.07,1.56,128.8,622.18,776.16,84.56,Infrastructure,PLI Scheme,Positive
+2040,7.44,3.91,7.2,1.56,89.64,667.11,411.09,53.49,Infrastructure,PLI Scheme,Very Strong
+2046,7.43,4.63,6.97,1.56,143.56,885.18,793.29,73.84,Technology,Smart Cities,Very Strong
+2041,7.11,4.49,5.38,1.49,127.56,842.84,544.94,53.95,Manufacturing,Digital Push,Strong
+2047,7.61,5.22,6.96,1.57,128.14,589.8,670.1,92.48,AI,Startup India,Very Strong
+2046,8.0,4.31,5.39,1.58,107.37,854.33,623.6,92.09,Infrastructure,Green Energy,Positive
+2036,7.15,4.46,6.99,1.51,74.68,907.05,978.56,83.03,AI,Make in India,Strong
+2030,6.36,2.91,4.77,1.56,132.1,756.46,1022.49,109.93,EV,Smart Cities,Strong
+2029,5.93,3.51,6.11,1.5,75.51,801.15,867.82,84.08,Infrastructure,Smart Cities,Positive
+2028,7.23,2.95,5.38,1.57,132.4,871.38,787.79,89.54,EV,Make in India,Strong
+2044,7.39,4.6,7.07,1.49,90.7,666.51,823.97,71.88,Space,Digital Push,Positive
+2045,6.42,4.44,7.32,1.47,70.32,1029.55,978.46,43.93,Space,Smart Cities,Strong
+2050,7.78,4.42,6.4,1.44,110.02,896.77,542.32,87.09,Infrastructure,PLI Scheme,Very Strong
+2043,6.83,3.58,6.37,1.49,139.57,812.88,669.49,84.48,Space,Digital Push,Strong
+2040,5.87,3.52,6.9,1.5,85.86,745.86,960.57,124.2,Biotech,Make in India,Strong
+2034,8.21,4.35,7.32,1.45,149.98,809.37,989.72,103.35,Renewable Energy,Digital Push,Strong
+2042,8.12,3.73,6.24,1.49,126.42,562.77,902.56,81.74,Technology,PLI Scheme,Moderate
+2039,5.59,3.49,5.7,1.47,113.92,999.85,673.7,92.83,EV,Green Energy,Very Strong
+2040,6.75,3.84,6.85,1.45,99.11,885.47,958.54,108.14,Manufacturing,Make in India,Positive
+2026,6.72,3.74,4.34,1.55,100.85,925.68,1010.6,100.34,Manufacturing,PLI Scheme,Moderate
+2046,8.51,3.59,7.11,1.56,120.75,753.69,920.56,123.38,Renewable Energy,Make in India,Very Strong
+2047,7.12,3.34,5.49,1.55,131.15,706.77,470.84,74.21,Space,PLI Scheme,Strong
+2047,6.0,4.51,5.96,1.5,95.16,669.08,837.44,109.5,Renewable Energy,PLI Scheme,Strong
+2028,7.91,5.29,7.12,1.5,89.84,847.63,901.93,81.54,Space,Smart Cities,Positive
+2041,6.22,4.17,5.78,1.45,104.65,688.49,747.81,93.87,Biotech,Smart Cities,Positive
+2048,6.99,4.36,6.85,1.52,144.84,727.52,846.13,78.85,Manufacturing,Smart Cities,Very Strong
+2050,6.58,4.58,7.34,1.51,79.58,815.57,748.12,87.16,EV,Green Energy,Very Strong
+2036,6.75,4.46,6.31,1.64,138.56,670.88,699.38,94.23,Manufacturing,Green Energy,Positive
+2037,7.95,3.61,6.51,1.55,111.06,875.27,1031.48,101.87,Technology,PLI Scheme,Very Strong
+2035,8.42,5.4,6.08,1.52,68.68,747.87,850.11,91.23,Infrastructure,Startup India,Positive
+2041,6.18,3.67,6.32,1.5,98.46,569.03,665.16,40.28,Space,Make in India,Strong
+2033,7.7,4.65,5.08,1.55,125.24,669.6,627.28,88.46,Technology,Smart Cities,Positive
+2031,6.61,4.57,5.91,1.45,155.05,906.98,699.46,119.41,Biotech,Make in India,Moderate
+2037,6.64,2.83,4.91,1.56,76.82,637.56,700.22,88.3,Biotech,PLI Scheme,Positive
+2049,7.59,3.95,5.3,1.45,39.52,857.29,840.51,119.97,Space,Digital Push,Positive
+2046,6.38,4.24,4.2,1.47,77.26,764.6,887.98,87.6,Space,PLI Scheme,Moderate
+2033,7.58,4.29,6.46,1.41,138.26,729.4,887.83,58.56,Manufacturing,Green Energy,Moderate
+2029,7.78,4.41,7.89,1.53,65.16,1051.51,714.98,81.34,Infrastructure,Startup India,Moderate
+2033,6.85,4.73,5.74,1.51,147.43,595.89,948.89,78.83,Manufacturing,Digital Push,Moderate
+2043,8.26,4.19,7.17,1.47,140.37,661.18,991.9,85.41,Technology,Make in India,Positive
+2030,6.18,4.45,7.33,1.45,114.78,747.19,783.61,66.29,Technology,Green Energy,Very Strong
+2034,8.28,4.17,5.0,1.57,94.34,1039.89,675.51,89.82,Space,Smart Cities,Moderate
+2029,5.64,3.49,5.22,1.49,111.38,747.47,834.04,83.43,EV,Digital Push,Strong
+2047,9.36,4.22,7.19,1.46,125.28,782.91,1122.41,115.76,EV,Green Energy,Positive
+2042,6.88,4.72,6.11,1.6,121.46,709.7,671.84,65.8,Technology,Make in India,Very Strong
+2034,6.27,4.98,4.91,1.47,153.49,793.04,746.34,94.91,Infrastructure,PLI Scheme,Strong
+2026,7.01,4.58,5.56,1.56,103.5,717.14,828.04,98.22,Space,Make in India,Positive
+2046,6.36,5.13,6.62,1.44,77.48,833.44,895.83,105.5,Biotech,Digital Push,Positive
+2045,7.51,4.49,5.41,1.48,73.07,842.9,542.02,82.73,EV,Digital Push,Strong
+2038,8.29,4.8,3.43,1.53,68.07,721.91,1002.82,94.42,EV,PLI Scheme,Moderate
+2041,6.41,4.86,5.88,1.5,114.91,614.94,1000.92,97.07,AI,Digital Push,Moderate
+2038,7.66,4.04,5.96,1.51,104.14,761.23,760.53,57.03,AI,Startup India,Strong
+2039,5.97,4.71,6.21,1.47,110.82,918.25,1198.93,83.45,EV,Smart Cities,Very Strong
+2028,8.03,3.54,7.46,1.42,96.57,650.8,991.88,89.35,Manufacturing,Green Energy,Moderate
+2031,7.53,4.44,6.25,1.57,82.25,790.07,984.42,91.69,Infrastructure,PLI Scheme,Positive
+2043,8.06,4.6,6.44,1.48,125.36,605.31,986.26,91.45,Renewable Energy,Make in India,Positive
+2044,7.1,4.94,7.26,1.51,48.42,625.22,982.22,98.75,EV,Make in India,Very Strong
+2030,6.85,4.77,6.21,1.54,89.96,906.04,816.93,128.75,AI,Smart Cities,Positive
+2040,7.85,4.94,8.34,1.52,129.66,832.98,803.07,78.09,Infrastructure,Digital Push,Moderate
+2050,6.15,4.13,4.94,1.46,87.48,791.88,687.9,97.62,Infrastructure,Digital Push,Very Strong
+2027,5.81,3.96,5.27,1.56,119.79,471.39,739.17,116.03,AI,Make in India,Moderate
+2035,7.2,4.01,6.81,1.53,89.99,683.65,776.47,54.03,Space,Smart Cities,Very Strong
+2049,6.89,4.39,7.45,1.51,98.6,822.82,829.16,95.36,Infrastructure,Make in India,Strong
+2043,7.64,2.93,6.0,1.51,124.37,576.11,1043.76,56.39,Space,Digital Push,Positive
+2038,8.07,5.13,5.19,1.58,78.05,707.53,525.65,133.71,Infrastructure,PLI Scheme,Very Strong
+2030,7.63,4.23,7.96,1.46,128.63,842.0,1008.29,100.44,AI,Green Energy,Strong
+2048,8.01,3.91,5.41,1.52,111.15,568.66,678.34,97.74,Technology,Digital Push,Moderate
+2049,7.46,2.43,6.54,1.47,141.41,548.49,805.37,52.53,EV,PLI Scheme,Strong
+2026,7.6,4.17,7.51,1.4,115.2,570.74,718.58,79.91,Manufacturing,Green Energy,Moderate
+2047,7.11,4.06,5.76,1.4,83.26,790.14,1079.6,80.0,Space,Startup India,Very Strong
+2026,7.57,3.57,5.58,1.45,153.2,683.16,750.01,125.33,Renewable Energy,Smart Cities,Very Strong
+2043,7.33,3.73,5.65,1.47,85.35,855.37,893.0,104.58,Manufacturing,PLI Scheme,Positive
+2040,7.46,4.18,7.1,1.61,104.32,764.52,900.26,56.94,Technology,Startup India,Positive
+2042,7.07,3.79,7.26,1.53,133.94,975.66,657.6,99.39,Biotech,Digital Push,Very Strong
+2036,7.85,4.6,6.23,1.54,63.0,601.5,806.45,59.94,Technology,Smart Cities,Moderate
+2046,6.63,3.68,8.08,1.47,145.99,789.81,988.61,57.41,Infrastructure,PLI Scheme,Moderate
+2050,7.19,4.31,6.23,1.5,81.23,654.57,697.75,99.07,Manufacturing,Digital Push,Very Strong
+2047,8.25,5.03,7.49,1.62,98.63,822.03,936.06,104.9,Space,Smart Cities,Moderate
+2042,6.44,4.17,5.77,1.44,117.22,764.39,773.65,99.18,Space,Smart Cities,Very Strong
+2038,5.47,4.45,8.53,1.52,108.96,630.83,982.91,127.59,Technology,Digital Push,Positive
+2026,7.49,4.4,7.77,1.58,129.73,731.14,1064.65,97.38,Manufacturing,Digital Push,Moderate
+2027,6.99,4.21,6.07,1.55,69.98,758.77,538.9,93.4,Technology,PLI Scheme,Positive
+2034,8.01,4.15,7.63,1.59,128.19,678.08,632.66,65.68,Renewable Energy,Smart Cities,Strong
+2028,7.1,3.8,7.58,1.51,130.18,837.26,758.61,107.15,Technology,PLI Scheme,Positive
+2026,6.72,4.31,7.75,1.53,135.73,626.27,1025.16,56.97,Manufacturing,Smart Cities,Strong
+2046,7.14,4.0,3.72,1.51,70.26,1000.92,894.55,130.41,Infrastructure,PLI Scheme,Positive
+2041,8.07,5.28,6.92,1.53,73.28,864.44,645.73,107.42,Manufacturing,Digital Push,Positive
+2048,7.66,4.77,6.74,1.45,101.44,791.85,915.05,145.8,AI,Digital Push,Moderate
+2031,5.25,3.18,6.67,1.54,75.98,1091.44,692.08,97.79,Manufacturing,Make in India,Positive
+2042,7.35,3.22,6.42,1.51,64.9,712.88,941.87,108.4,Renewable Energy,PLI Scheme,Very Strong
+2030,7.39,4.11,6.45,1.5,100.36,823.37,895.46,84.46,EV,Make in India,Moderate
+2030,7.19,3.92,7.48,1.59,115.85,776.72,691.46,89.13,Renewable Energy,Make in India,Moderate
+2031,6.71,4.07,6.74,1.49,179.97,845.7,810.77,68.97,Renewable Energy,Startup India,Moderate
+2028,8.16,4.66,6.42,1.56,123.72,929.53,991.46,61.05,Technology,Smart Cities,Positive
+2046,8.2,4.42,7.34,1.57,153.81,815.87,555.11,93.79,Renewable Energy,Green Energy,Moderate
+2048,5.44,4.41,6.62,1.54,108.9,875.02,862.16,89.02,Manufacturing,Startup India,Strong
+2030,6.56,5.21,6.71,1.45,123.99,683.95,665.03,68.48,Space,Smart Cities,Strong
+2046,7.08,3.23,8.07,1.52,106.35,725.26,817.73,72.03,EV,Green Energy,Positive
+2030,7.96,4.27,5.77,1.6,177.08,946.59,884.09,90.65,Space,Make in India,Moderate
+2035,7.23,3.79,4.68,1.41,92.86,821.62,1101.84,68.14,Biotech,Green Energy,Very Strong
+2035,6.65,5.2,6.27,1.49,96.25,779.8,816.32,97.13,Infrastructure,Digital Push,Very Strong
+2044,7.77,2.65,6.41,1.56,129.91,659.61,1025.17,68.76,Biotech,Digital Push,Strong
+2042,7.03,2.68,6.92,1.49,115.19,865.99,702.33,95.12,Renewable Energy,PLI Scheme,Positive
+2046,7.11,4.41,6.31,1.54,99.4,656.22,750.7,66.99,Space,Smart Cities,Positive
+2039,7.18,4.99,6.96,1.57,134.01,620.86,902.19,67.07,Manufacturing,Startup India,Positive
+2034,7.66,4.74,8.7,1.51,108.97,763.79,848.25,42.76,Technology,Make in India,Positive
+2039,6.95,3.64,7.0,1.53,108.8,461.7,774.02,86.79,Technology,Smart Cities,Positive
+2026,7.75,5.25,7.18,1.5,115.76,823.33,770.23,119.08,Infrastructure,Make in India,Moderate
+2044,7.14,3.34,6.07,1.51,66.65,795.23,1006.66,117.95,Infrastructure,Digital Push,Moderate
+2038,6.35,5.12,4.81,1.61,70.17,707.66,779.62,96.48,Manufacturing,Startup India,Moderate
+2038,7.17,3.43,3.9,1.5,137.17,718.55,677.08,49.98,Infrastructure,Startup India,Very Strong
+2029,6.39,3.95,5.68,1.48,93.08,735.68,700.32,106.88,Space,Digital Push,Moderate
+2026,7.23,4.65,3.62,1.55,106.68,655.3,913.79,94.51,Space,Green Energy,Positive
+2042,7.86,3.17,6.71,1.46,150.31,772.15,1135.91,81.87,Infrastructure,Startup India,Positive
+2033,6.34,5.23,5.82,1.47,107.8,720.07,746.64,114.15,Technology,Green Energy,Very Strong
+2027,7.49,3.95,4.89,1.47,104.75,763.49,1120.81,102.31,Manufacturing,Make in India,Very Strong
+2033,6.54,4.3,6.33,1.49,132.4,731.31,818.48,129.23,EV,Startup India,Strong
+2032,7.36,5.01,5.46,1.49,95.04,707.7,780.83,61.89,Infrastructure,PLI Scheme,Very Strong
+2027,7.89,3.64,6.65,1.53,140.07,783.42,692.56,63.45,Manufacturing,Digital Push,Strong
+2047,5.5,4.94,6.91,1.48,131.89,843.73,792.28,66.82,Renewable Energy,Green Energy,Moderate
+2047,6.31,5.35,5.5,1.54,155.76,687.03,714.14,84.3,Technology,PLI Scheme,Positive
+2028,6.9,3.74,5.96,1.54,92.74,797.46,702.91,121.76,EV,Make in India,Strong
+2043,7.45,5.16,6.41,1.47,144.17,812.33,588.71,77.53,Space,Make in India,Strong
+2037,7.07,2.97,4.79,1.54,123.85,595.94,1067.26,77.96,Technology,Startup India,Strong
+2026,7.16,4.47,6.41,1.55,76.87,867.19,969.01,98.35,Technology,Startup India,Very Strong
+2047,8.83,3.34,4.77,1.41,45.1,996.77,858.02,106.86,Space,PLI Scheme,Very Strong
+2037,6.23,4.86,6.77,1.51,90.05,739.43,799.84,45.26,AI,Smart Cities,Very Strong
+2030,8.11,4.8,5.76,1.47,117.31,729.46,819.22,110.79,Manufacturing,Smart Cities,Strong
+2050,6.92,5.65,4.76,1.57,120.93,724.44,711.23,76.9,Space,Startup India,Moderate
+2042,7.64,5.19,5.62,1.47,108.52,824.47,661.26,87.95,Renewable Energy,Smart Cities,Positive
+2041,8.9,4.08,5.66,1.43,108.75,811.29,920.44,118.37,Infrastructure,Digital Push,Very Strong
+2040,7.75,3.44,7.27,1.5,106.85,559.12,783.29,85.67,Renewable Energy,PLI Scheme,Moderate
+2048,7.5,4.6,6.37,1.46,135.78,646.07,865.6,59.36,Manufacturing,Digital Push,Very Strong
+2040,8.48,4.16,5.24,1.54,74.09,810.88,587.26,60.52,Space,Smart Cities,Very Strong
+2030,8.1,5.29,7.85,1.46,116.71,732.6,775.84,89.42,Technology,Startup India,Strong
+2046,6.56,2.68,6.83,1.5,89.43,610.07,658.53,83.31,Space,Digital Push,Strong
+2039,7.44,5.73,5.86,1.58,87.34,930.03,887.77,91.19,AI,Make in India,Very Strong
+2027,5.83,4.57,4.65,1.55,139.41,654.03,959.34,81.97,Manufacturing,Startup India,Positive
+2036,6.77,3.63,5.78,1.52,85.42,754.29,1024.36,114.83,EV,PLI Scheme,Very Strong
+2044,7.45,4.71,5.98,1.49,106.51,729.42,731.94,90.5,EV,Green Energy,Positive
+2032,6.72,5.11,6.57,1.52,158.96,620.56,662.09,54.74,Manufacturing,Green Energy,Moderate
+2031,7.42,4.28,6.81,1.53,130.95,772.19,761.4,106.33,Infrastructure,Startup India,Very Strong
+2027,7.19,2.96,7.01,1.45,98.63,797.05,722.1,128.13,Renewable Energy,Smart Cities,Positive
+2031,7.63,3.99,4.59,1.54,100.69,693.88,880.37,93.1,Renewable Energy,Digital Push,Moderate
+2043,6.86,4.93,6.41,1.44,79.32,709.66,623.61,94.65,Infrastructure,Digital Push,Moderate
+2027,6.45,4.55,6.04,1.53,142.52,822.06,574.38,74.4,AI,Startup India,Strong
+2043,8.38,4.09,8.88,1.44,135.28,512.98,771.5,85.15,Technology,Make in India,Moderate
+2040,6.8,5.12,6.26,1.6,127.17,648.6,921.71,100.06,Biotech,PLI Scheme,Strong
+2044,7.73,4.72,5.58,1.54,129.92,775.61,676.16,112.64,Biotech,Smart Cities,Moderate
+2027,8.35,4.77,6.31,1.42,90.64,686.79,938.88,98.92,Technology,Make in India,Moderate
+2045,7.33,3.91,6.19,1.5,71.3,685.08,871.15,126.36,EV,Startup India,Positive
+2050,6.51,3.84,4.21,1.47,124.01,858.2,1036.55,91.97,AI,Startup India,Positive
+2031,7.06,3.01,6.61,1.47,132.21,674.0,707.68,67.57,Infrastructure,Make in India,Strong
+2026,8.01,4.02,5.89,1.51,150.18,987.5,595.09,68.14,Biotech,Green Energy,Very Strong
+2049,7.36,4.85,6.17,1.45,104.98,539.46,903.8,114.69,Manufacturing,Startup India,Positive
+2040,6.24,4.06,5.33,1.54,101.33,484.56,859.18,110.14,Space,PLI Scheme,Moderate
+2048,7.68,4.51,5.11,1.54,104.02,855.47,848.35,57.11,Renewable Energy,Smart Cities,Strong
+2035,7.82,4.98,7.08,1.52,126.77,631.93,673.3,85.81,Space,Make in India,Strong
+2044,6.92,4.46,7.31,1.5,102.95,633.95,928.52,86.54,Manufacturing,Green Energy,Strong
+2042,7.69,4.53,6.62,1.53,108.69,868.17,731.32,74.97,Renewable Energy,Make in India,Moderate
+2030,7.4,3.25,4.39,1.54,130.78,690.33,848.29,61.79,Manufacturing,Green Energy,Positive
+2029,7.04,3.97,6.68,1.52,94.35,859.24,755.66,74.53,Infrastructure,Green Energy,Very Strong
+2035,6.17,5.41,4.4,1.43,144.78,676.75,869.61,70.93,Infrastructure,PLI Scheme,Strong
+2049,8.06,4.27,5.54,1.46,125.83,793.5,652.68,62.27,AI,Smart Cities,Moderate
+2042,7.81,5.53,7.07,1.49,63.56,688.63,889.95,106.58,Manufacturing,Startup India,Positive
+2035,7.67,3.69,6.86,1.43,97.12,639.62,912.06,95.66,Manufacturing,Green Energy,Positive
+2042,8.44,4.36,6.66,1.51,59.39,957.67,836.24,80.72,AI,Startup India,Very Strong
+2045,7.96,3.93,7.51,1.57,105.08,883.98,1050.15,48.59,AI,Smart Cities,Strong
+2049,7.75,4.61,6.76,1.56,97.54,662.8,849.0,84.02,Space,Startup India,Moderate
+2030,5.43,4.83,4.18,1.54,130.87,728.59,948.63,100.42,Infrastructure,PLI Scheme,Positive
+2027,8.16,4.62,5.83,1.54,87.97,927.15,832.94,75.28,Space,PLI Scheme,Moderate
+2031,7.27,4.93,6.16,1.61,119.69,631.41,936.12,67.0,Infrastructure,Digital Push,Positive
+2046,7.45,4.19,6.04,1.54,124.22,637.91,605.34,87.54,Space,PLI Scheme,Strong
+2027,7.46,4.07,5.58,1.55,116.43,806.41,824.61,96.7,EV,Green Energy,Strong
+2038,7.82,2.97,5.17,1.43,138.5,1022.46,662.23,50.0,Manufacturing,Smart Cities,Very Strong
+2036,8.1,4.65,8.6,1.57,161.71,756.46,839.66,117.08,Space,PLI Scheme,Positive
+2036,7.71,4.32,5.81,1.52,112.8,875.98,873.79,65.02,Space,Make in India,Moderate
+2041,7.58,4.15,8.55,1.5,120.13,627.91,933.05,81.54,Infrastructure,Smart Cities,Positive
+2036,7.39,4.07,5.06,1.48,87.99,793.33,888.59,113.63,Biotech,Green Energy,Moderate
+2044,4.52,4.17,6.86,1.47,84.51,706.85,772.84,92.51,Infrastructure,Smart Cities,Very Strong
+2040,6.97,4.03,6.43,1.56,135.85,974.0,714.5,111.92,Manufacturing,PLI Scheme,Positive
+2050,6.45,3.83,5.28,1.5,132.54,941.84,492.05,121.07,AI,Make in India,Strong
+2048,8.17,4.37,5.73,1.47,84.26,1023.53,829.64,60.81,Manufacturing,Digital Push,Moderate
+2048,7.7,4.54,6.18,1.46,77.29,666.54,979.3,108.04,Biotech,Green Energy,Strong
+2041,6.83,3.66,5.36,1.51,93.78,754.26,835.18,116.51,Technology,Green Energy,Very Strong
+2036,6.91,3.92,5.94,1.48,106.47,795.02,808.13,82.48,Manufacturing,Smart Cities,Very Strong
+2047,6.88,4.06,3.84,1.47,99.77,671.22,840.03,84.08,Technology,Startup India,Moderate
+2041,6.87,4.2,6.91,1.43,114.01,765.73,765.72,51.74,Space,Startup India,Positive
+2033,6.04,4.11,7.43,1.55,132.93,859.08,847.3,105.62,Manufacturing,Make in India,Strong
+2029,5.87,4.66,6.65,1.49,121.55,683.96,763.31,39.3,Biotech,Digital Push,Strong
+2033,7.22,3.04,8.46,1.45,123.4,665.6,694.16,109.38,Technology,Digital Push,Moderate
+2029,8.06,3.17,6.88,1.49,48.71,657.64,809.46,61.65,Technology,Smart Cities,Moderate
+2049,6.77,4.34,7.34,1.53,69.65,588.76,806.41,117.81,Biotech,Smart Cities,Moderate
+2050,7.44,3.78,7.44,1.5,90.09,852.48,1082.52,97.93,Manufacturing,Startup India,Very Strong
+2028,7.79,4.82,3.45,1.51,94.22,665.32,707.2,110.18,EV,PLI Scheme,Very Strong
+2028,6.41,5.02,6.62,1.5,131.0,652.67,797.68,73.74,Infrastructure,Digital Push,Strong
+2043,7.18,4.36,4.82,1.44,88.03,813.49,784.07,63.33,Renewable Energy,PLI Scheme,Positive
+2044,6.67,3.45,5.02,1.55,126.67,748.73,757.32,54.73,Infrastructure,Digital Push,Moderate
+2044,8.48,4.94,5.19,1.41,90.37,686.94,891.83,111.82,Technology,PLI Scheme,Very Strong
+2046,8.45,4.34,5.89,1.52,79.98,847.28,1133.31,103.26,Space,PLI Scheme,Positive
+2030,6.41,3.16,6.85,1.53,81.14,682.15,775.08,103.97,Manufacturing,Digital Push,Moderate
+2043,7.51,3.22,6.63,1.49,166.46,488.77,892.23,95.83,Manufacturing,Make in India,Positive
+2035,8.05,5.26,6.19,1.52,89.82,909.99,552.27,100.88,Space,Make in India,Moderate
+2047,7.88,5.15,6.92,1.49,127.27,650.62,764.91,84.17,Manufacturing,Smart Cities,Positive
+2046,7.27,2.44,6.98,1.52,71.05,663.73,1037.73,97.41,Manufacturing,PLI Scheme,Strong
+2031,8.25,3.25,6.64,1.55,145.47,664.26,812.3,72.86,EV,PLI Scheme,Moderate
+2026,6.48,5.0,4.48,1.46,118.73,757.15,890.33,83.15,Renewable Energy,PLI Scheme,Moderate
+2030,6.96,4.19,5.46,1.53,116.85,717.09,732.81,150.87,AI,PLI Scheme,Strong
+2034,6.5,4.69,6.23,1.58,120.35,868.57,856.06,90.78,Technology,PLI Scheme,Moderate
+2037,7.83,4.16,6.93,1.51,123.1,947.41,1048.59,50.57,Renewable Energy,Startup India,Moderate
+2039,6.73,4.66,4.87,1.47,130.23,668.5,657.59,81.83,Infrastructure,Green Energy,Very Strong
+2027,7.06,4.2,6.19,1.61,95.02,637.44,1126.12,68.85,AI,PLI Scheme,Strong
+2042,7.69,3.89,4.63,1.5,93.56,687.37,603.57,93.18,AI,Startup India,Very Strong
+2039,7.76,4.94,7.23,1.51,111.23,802.69,752.03,72.21,Space,Make in India,Strong
+2038,6.47,4.34,6.44,1.51,127.11,736.04,702.97,85.76,Manufacturing,PLI Scheme,Positive
+2034,8.05,4.66,4.85,1.52,108.33,689.95,781.86,75.2,Renewable Energy,Make in India,Strong
+2050,7.56,4.31,4.85,1.48,129.35,594.36,701.15,93.94,Space,Smart Cities,Strong
+2040,6.33,3.86,6.59,1.51,125.45,484.93,690.54,77.45,Infrastructure,Green Energy,Very Strong
+2050,6.14,5.33,7.57,1.55,104.58,629.43,653.86,97.14,Manufacturing,Digital Push,Moderate
+2047,7.19,4.45,5.1,1.48,66.32,901.73,910.17,128.97,Manufacturing,Green Energy,Strong
+2040,7.88,3.95,6.99,1.48,97.41,802.32,786.69,66.91,Biotech,PLI Scheme,Moderate
+2049,7.9,5.09,5.66,1.49,153.57,727.02,750.07,104.48,Biotech,PLI Scheme,Strong
+2036,7.48,3.28,7.02,1.45,118.5,837.57,859.52,40.94,Biotech,Green Energy,Very Strong
+2041,7.24,5.77,6.88,1.47,94.01,595.45,610.75,85.34,EV,Green Energy,Strong
+2042,7.61,4.07,6.36,1.46,116.27,756.81,862.89,94.58,Space,Smart Cities,Positive
+2029,6.52,3.31,4.37,1.5,126.92,535.64,806.87,75.04,Technology,Make in India,Strong
+2026,8.55,5.53,6.88,1.54,94.02,791.52,811.17,54.25,AI,Digital Push,Strong
+2033,8.54,3.88,6.7,1.57,140.88,781.14,892.68,89.24,Infrastructure,Green Energy,Moderate
+2042,7.54,4.37,6.61,1.5,122.39,784.0,1050.09,120.64,AI,Digital Push,Moderate
+2028,7.36,4.7,6.4,1.52,82.5,890.11,865.22,87.07,Renewable Energy,Green Energy,Positive
+2045,6.87,5.03,5.32,1.51,131.41,843.12,792.02,101.17,Technology,Make in India,Strong
+2040,7.62,4.41,7.28,1.4,99.76,604.93,654.43,112.54,Manufacturing,Digital Push,Moderate
+2040,6.65,3.75,7.1,1.44,105.52,891.93,485.29,139.43,Technology,Startup India,Strong
+2049,5.42,4.35,5.12,1.54,84.6,724.87,837.9,68.95,Manufacturing,Make in India,Very Strong
+2047,5.03,3.91,7.51,1.54,125.79,513.58,643.65,71.02,Space,Digital Push,Very Strong
+2039,6.56,4.37,6.33,1.54,106.28,736.95,464.36,84.16,Biotech,Green Energy,Positive
+2048,7.33,5.34,6.33,1.49,126.84,827.66,770.88,102.31,Technology,Green Energy,Very Strong
+2039,7.47,4.73,6.02,1.4,96.23,628.34,853.53,43.59,Manufacturing,Make in India,Moderate
+2049,6.81,4.34,6.12,1.45,93.36,909.94,924.2,103.08,AI,Make in India,Moderate
+2027,7.31,4.72,7.57,1.46,91.34,639.2,968.58,92.97,Biotech,Green Energy,Positive
+2038,6.98,4.77,7.23,1.53,119.9,692.27,942.6,79.32,Biotech,Digital Push,Strong
+2039,6.4,3.45,7.21,1.48,92.99,670.23,946.36,98.51,Biotech,Startup India,Moderate
+2049,7.16,4.23,6.38,1.58,104.92,544.92,614.47,107.79,AI,Smart Cities,Very Strong
+2044,7.85,5.99,7.09,1.57,97.04,630.82,799.06,110.56,AI,Make in India,Moderate
+2032,6.44,5.05,5.37,1.58,121.0,664.58,901.18,90.3,AI,Green Energy,Positive
+2028,6.44,3.85,6.78,1.45,66.62,734.39,826.49,96.52,Biotech,Digital Push,Very Strong
+2040,6.34,3.78,6.05,1.52,116.18,389.82,798.28,95.77,Technology,Make in India,Very Strong
+2048,5.65,3.75,4.14,1.48,153.28,835.99,823.93,114.62,Manufacturing,Digital Push,Very Strong
+2039,6.82,4.81,4.61,1.52,140.9,834.8,854.37,97.62,AI,Make in India,Positive
+2036,7.77,5.33,5.54,1.46,94.58,891.78,809.23,102.9,Technology,Green Energy,Positive
+2040,7.34,4.61,6.62,1.56,122.37,571.0,701.52,107.85,Manufacturing,Digital Push,Strong
+2038,7.06,4.31,5.54,1.46,117.51,714.86,581.6,129.17,Biotech,Green Energy,Strong
+2043,7.3,3.89,5.61,1.4,146.73,862.97,791.44,78.28,Technology,Digital Push,Strong
+2031,6.81,4.43,6.96,1.6,47.25,873.3,828.05,122.51,Biotech,Make in India,Positive
+2028,5.64,3.63,5.64,1.52,137.82,927.47,826.52,139.42,EV,Smart Cities,Very Strong
+2044,7.83,2.84,7.53,1.45,103.31,762.33,953.41,79.56,AI,Smart Cities,Very Strong
+2040,8.06,5.35,7.37,1.49,91.42,743.28,978.28,85.66,Renewable Energy,Startup India,Moderate
+2050,6.62,3.5,6.22,1.47,90.7,563.05,805.44,81.43,Technology,Startup India,Strong
+2048,7.08,3.97,6.95,1.5,77.5,877.79,806.44,103.14,AI,PLI Scheme,Very Strong
+2030,7.01,4.66,6.82,1.54,94.65,694.76,900.24,52.77,Infrastructure,Green Energy,Very Strong
+2035,7.48,5.2,5.95,1.53,83.01,754.07,879.72,80.01,Manufacturing,Digital Push,Very Strong
+2032,8.55,4.38,7.06,1.51,114.51,746.06,758.04,84.53,EV,Startup India,Very Strong
+2050,8.13,3.36,7.21,1.5,124.75,462.64,912.26,82.78,AI,Make in India,Positive
+2042,6.9,3.99,5.25,1.55,103.59,652.63,799.51,82.58,Infrastructure,Smart Cities,Strong
+2032,7.63,3.73,6.35,1.4,147.49,804.47,802.48,80.21,Technology,Digital Push,Very Strong
+2047,8.2,4.17,6.34,1.46,96.29,744.17,880.71,105.55,Technology,PLI Scheme,Very Strong
+2037,7.53,5.06,7.05,1.45,102.28,805.42,777.84,100.76,Infrastructure,Smart Cities,Very Strong
+2050,7.2,2.42,5.76,1.55,98.18,844.06,833.25,124.07,EV,Digital Push,Very Strong
+2042,7.56,3.91,5.6,1.46,124.97,651.21,861.66,105.6,Infrastructure,Startup India,Moderate
+2038,6.64,3.86,6.37,1.44,127.49,688.18,934.4,68.05,Manufacturing,Startup India,Very Strong
+2045,6.75,3.32,7.38,1.53,122.38,733.06,924.74,86.6,Technology,Green Energy,Very Strong
+2050,6.35,4.61,5.0,1.45,106.9,842.82,857.39,84.48,Infrastructure,PLI Scheme,Very Strong
+2029,7.45,3.21,5.18,1.48,76.48,721.91,454.77,95.1,Renewable Energy,Digital Push,Moderate
+2035,7.09,3.29,5.68,1.62,102.01,536.27,854.07,111.86,Renewable Energy,PLI Scheme,Positive
+2028,6.54,4.8,5.86,1.54,146.95,726.22,875.7,93.72,Infrastructure,Make in India,Moderate
+2034,7.07,5.25,4.43,1.49,135.33,837.99,904.13,93.77,Manufacturing,PLI Scheme,Very Strong
+2038,7.58,4.15,7.7,1.49,117.35,912.84,686.16,90.2,Technology,Startup India,Positive
+2043,8.73,3.35,6.07,1.55,100.39,783.67,522.91,106.21,Renewable Energy,Green Energy,Very Strong
+2040,8.01,3.71,5.92,1.53,109.66,571.68,932.86,78.62,Infrastructure,Startup India,Positive
+2029,5.37,4.91,7.82,1.5,100.5,701.24,648.57,60.86,Biotech,Smart Cities,Very Strong
+2040,7.39,4.28,6.92,1.51,139.83,807.01,991.1,102.89,Infrastructure,Startup India,Very Strong
+2047,8.34,4.13,5.66,1.43,89.03,853.95,738.99,97.5,AI,Digital Push,Positive
+2027,6.13,4.42,6.36,1.42,133.09,810.85,676.2,116.47,Infrastructure,Green Energy,Positive
+2040,7.64,4.17,6.16,1.49,96.77,719.81,868.95,41.44,Manufacturing,Digital Push,Very Strong
+2033,7.01,5.28,7.65,1.47,143.02,853.02,906.26,87.99,Renewable Energy,Make in India,Moderate
+2033,8.12,3.68,6.03,1.53,120.67,673.13,897.92,92.13,AI,Make in India,Moderate
+2042,7.52,3.6,4.76,1.51,91.27,772.16,890.23,59.78,Renewable Energy,Startup India,Moderate
+2037,6.49,3.23,4.32,1.46,102.27,839.97,720.91,88.27,Renewable Energy,Green Energy,Moderate
+2044,7.04,3.82,7.68,1.51,127.79,819.2,606.23,113.74,Manufacturing,PLI Scheme,Positive
+2035,7.09,3.44,5.41,1.48,97.52,821.89,765.45,131.72,Infrastructure,Green Energy,Positive
+2034,7.1,4.35,6.87,1.6,110.55,818.87,659.6,109.65,Manufacturing,Green Energy,Moderate
+2030,8.1,4.21,6.27,1.52,97.18,624.16,880.56,83.51,Infrastructure,Green Energy,Strong
+2031,6.53,3.44,5.78,1.42,153.98,752.11,942.39,115.23,AI,Startup India,Strong
+2045,8.0,4.61,5.94,1.59,158.28,640.89,844.18,108.23,Manufacturing,Digital Push,Strong
+2027,6.96,5.26,7.78,1.47,146.58,715.26,819.87,80.31,Manufacturing,Startup India,Very Strong
+2049,7.38,4.45,4.75,1.45,106.89,609.74,776.54,78.36,Biotech,PLI Scheme,Moderate
+2038,7.26,2.42,5.81,1.61,99.93,791.4,957.25,86.63,EV,Digital Push,Very Strong
+2031,7.18,5.59,7.11,1.52,90.52,514.18,563.73,68.98,Technology,PLI Scheme,Positive
+2030,7.19,4.72,4.92,1.54,148.39,824.07,651.14,83.78,Manufacturing,Smart Cities,Positive
+2050,8.37,5.57,7.52,1.54,133.27,751.84,1075.74,99.74,EV,Smart Cities,Strong
+2026,7.87,4.96,7.09,1.49,134.47,978.26,644.31,110.77,Space,Digital Push,Strong
+2046,6.91,5.1,6.47,1.47,103.75,725.45,894.35,82.42,Technology,Startup India,Positive
+2047,8.47,4.34,5.7,1.48,66.05,725.41,923.15,117.77,Biotech,PLI Scheme,Strong
+2046,7.42,4.02,4.79,1.58,71.8,831.9,550.32,103.0,Infrastructure,PLI Scheme,Strong
+2031,7.49,4.46,6.91,1.51,111.44,732.42,577.2,103.91,Space,Make in India,Positive
+2031,6.53,3.7,8.95,1.57,96.93,782.98,997.06,71.62,Infrastructure,PLI Scheme,Very Strong
+2048,6.8,4.5,6.35,1.5,94.06,869.33,683.79,126.16,Infrastructure,Startup India,Strong
+2041,6.65,2.36,4.37,1.46,118.63,717.9,687.61,101.07,EV,Make in India,Very Strong
+2029,7.27,4.23,6.66,1.43,135.34,893.43,747.08,83.35,EV,Startup India,Strong
+2036,7.71,5.14,7.06,1.53,92.47,548.5,684.13,79.82,Technology,Green Energy,Moderate
+2049,7.49,4.27,5.28,1.58,77.36,942.42,893.68,83.79,Infrastructure,PLI Scheme,Very Strong
+2048,8.47,5.41,5.55,1.46,93.06,535.42,654.51,69.63,Renewable Energy,Green Energy,Very Strong
+2034,6.49,4.02,5.45,1.53,83.9,912.26,544.79,109.77,Space,Smart Cities,Strong
+2048,7.29,4.9,5.67,1.43,124.82,526.02,981.89,71.68,Manufacturing,Smart Cities,Very Strong
+2028,6.17,3.59,6.03,1.47,109.9,987.67,661.39,95.8,EV,Digital Push,Moderate
+2044,6.46,4.87,5.34,1.51,157.01,769.31,714.72,81.0,EV,PLI Scheme,Positive
+2033,8.21,4.36,4.96,1.41,128.37,636.61,936.18,103.42,EV,Make in India,Moderate
+2030,6.83,4.05,6.37,1.5,155.35,973.81,829.83,106.13,Technology,Green Energy,Positive
+2029,6.56,2.4,6.02,1.46,74.9,619.34,975.73,77.12,Infrastructure,Startup India,Moderate
+2049,5.5,4.02,5.76,1.53,28.68,722.72,938.32,89.32,Renewable Energy,PLI Scheme,Moderate
+2031,6.55,4.35,6.28,1.49,116.07,1062.57,756.52,61.13,Manufacturing,Digital Push,Very Strong
+2027,7.04,4.78,4.68,1.55,113.08,797.46,963.07,124.01,Manufacturing,Startup India,Moderate
+2045,6.11,5.29,6.46,1.49,106.93,506.88,843.49,111.36,Infrastructure,Green Energy,Strong
+2036,6.99,5.62,5.78,1.43,112.39,717.2,736.23,62.09,Renewable Energy,PLI Scheme,Strong
+2029,8.22,5.07,6.44,1.43,81.9,706.59,860.66,72.66,Technology,Green Energy,Strong
+2040,6.63,3.81,6.6,1.4,124.08,772.62,636.68,87.3,EV,PLI Scheme,Strong
+2031,6.45,3.99,7.33,1.53,128.4,744.67,936.74,90.78,EV,PLI Scheme,Very Strong
+2047,6.3,4.72,6.3,1.63,80.01,815.5,918.58,76.28,Space,Green Energy,Strong
+2042,6.29,4.56,7.27,1.52,101.16,566.63,836.85,67.1,Space,Green Energy,Moderate
+2049,7.63,5.34,5.88,1.58,102.7,684.25,551.44,97.9,Space,Startup India,Strong
+2031,7.24,5.94,5.93,1.56,93.23,787.42,981.62,124.79,Biotech,Digital Push,Very Strong
+2044,7.97,5.79,6.11,1.47,80.97,658.54,881.19,91.09,Infrastructure,Green Energy,Positive
+2050,8.82,5.25,6.97,1.56,110.31,881.51,816.79,84.17,Manufacturing,Smart Cities,Moderate
+2027,5.74,4.57,6.83,1.48,116.52,660.94,794.71,82.06,EV,Digital Push,Moderate
+2040,7.5,5.14,6.34,1.48,94.75,767.2,744.86,68.07,Biotech,Smart Cities,Very Strong
+2036,6.31,5.36,4.97,1.49,82.73,737.41,771.77,76.56,Manufacturing,Startup India,Positive
+2033,7.83,4.1,6.81,1.49,120.26,628.24,927.69,112.72,Manufacturing,Green Energy,Strong
+2044,6.98,3.83,5.34,1.53,90.82,757.26,747.66,48.58,Infrastructure,Digital Push,Positive
+2038,7.22,3.66,5.28,1.47,102.27,592.57,781.6,91.4,AI,Green Energy,Moderate
+2037,6.17,3.59,5.06,1.54,99.1,696.77,802.14,90.56,Space,PLI Scheme,Moderate
+2030,6.86,3.23,6.12,1.54,141.14,753.63,805.97,92.37,Biotech,Green Energy,Moderate
+2031,7.27,4.37,7.41,1.52,91.96,578.72,733.51,104.55,AI,Digital Push,Positive
+2047,8.28,3.5,5.23,1.6,153.14,824.82,796.17,91.22,AI,Green Energy,Strong
+2029,6.56,3.65,7.88,1.56,128.81,781.24,868.06,80.92,Biotech,Green Energy,Moderate
+2044,6.76,4.69,7.11,1.55,155.52,813.84,693.33,76.87,Renewable Energy,Make in India,Very Strong
+2045,7.96,4.33,4.74,1.5,126.62,750.3,796.82,115.97,Space,Make in India,Strong
+2026,6.51,4.5,5.82,1.52,104.47,611.92,1090.34,110.82,Infrastructure,Digital Push,Moderate
+2045,8.11,5.16,5.16,1.53,87.07,749.99,811.16,147.55,Biotech,Digital Push,Strong
+2042,7.19,4.81,6.86,1.5,101.11,824.77,689.74,84.38,Manufacturing,PLI Scheme,Very Strong
+2037,7.44,5.26,5.21,1.48,147.18,607.16,673.36,77.24,Biotech,PLI Scheme,Positive
+2040,7.49,4.26,4.58,1.38,108.8,616.7,642.87,99.06,EV,Green Energy,Moderate
+2026,6.71,5.33,5.87,1.54,126.52,720.47,1047.8,98.58,Biotech,Smart Cities,Very Strong
+2039,7.51,4.45,7.37,1.55,115.17,705.44,961.12,102.73,Renewable Energy,Digital Push,Moderate
+2031,6.58,4.32,6.01,1.44,116.24,748.06,639.45,106.94,Space,Green Energy,Moderate
+2030,6.8,5.22,6.6,1.53,117.2,715.0,849.92,102.53,Space,Smart Cities,Positive
+2036,7.65,3.59,6.64,1.47,122.38,769.2,991.48,111.5,AI,Make in India,Positive
+2029,7.43,5.62,4.69,1.48,89.65,896.62,814.33,114.16,Technology,PLI Scheme,Strong
+2038,7.14,4.0,5.3,1.57,103.13,814.61,751.17,114.52,Space,Digital Push,Very Strong
+2036,6.19,3.35,6.21,1.45,117.73,756.74,1133.73,44.77,Space,Green Energy,Very Strong
+2028,6.39,4.66,5.64,1.45,114.09,617.19,553.25,94.65,Renewable Energy,Make in India,Positive
+2026,7.42,3.94,7.9,1.59,98.47,663.36,1188.56,71.54,Renewable Energy,Startup India,Moderate
+2031,7.79,5.62,4.97,1.49,120.42,851.01,828.4,111.11,Infrastructure,Make in India,Strong
+2043,6.31,3.9,5.29,1.56,90.72,693.78,1000.66,44.35,EV,Green Energy,Positive
+2049,6.53,4.42,6.49,1.42,79.42,633.87,651.91,119.38,Renewable Energy,PLI Scheme,Strong
+2035,7.31,3.2,5.57,1.42,117.37,1001.76,718.42,72.71,Biotech,Smart Cities,Strong
+2030,7.29,4.77,3.31,1.45,80.04,932.94,668.81,68.12,EV,Startup India,Very Strong
+2048,5.9,3.66,8.13,1.48,117.0,735.07,805.86,97.12,Infrastructure,Startup India,Strong
+2035,7.33,4.69,5.13,1.43,61.13,620.08,863.08,82.53,Biotech,PLI Scheme,Very Strong
+2037,6.72,3.9,6.76,1.52,91.88,836.8,969.35,125.59,Space,Startup India,Moderate
+2027,8.51,2.77,4.95,1.52,101.81,691.19,580.4,117.26,Technology,Digital Push,Moderate
+2038,7.4,4.29,5.34,1.46,69.83,856.62,841.96,79.78,Manufacturing,Green Energy,Positive
+2033,7.54,4.26,4.58,1.46,100.68,691.31,945.29,110.85,Manufacturing,Startup India,Moderate
+2027,7.56,4.82,5.46,1.47,139.63,947.45,971.51,79.09,AI,Make in India,Very Strong
+2045,6.23,5.29,5.56,1.44,78.24,687.75,758.33,78.92,Space,Smart Cities,Strong
+2026,8.76,5.54,6.07,1.36,101.37,1033.77,760.07,104.28,AI,Green Energy,Strong
+2030,5.9,4.8,5.83,1.5,152.57,773.41,807.12,119.12,Technology,PLI Scheme,Moderate
+2034,7.84,4.4,4.76,1.48,83.45,916.12,846.05,81.18,Manufacturing,Make in India,Very Strong
+2042,7.69,3.2,5.68,1.48,144.93,685.19,1002.36,82.7,AI,Digital Push,Strong
+2034,6.82,4.34,7.65,1.45,103.02,592.64,650.59,96.02,Space,Startup India,Moderate
+2036,7.73,4.35,7.53,1.54,112.55,473.25,709.92,72.12,EV,Make in India,Very Strong
+2040,6.95,4.06,6.66,1.62,142.29,903.19,633.6,121.31,Renewable Energy,Green Energy,Very Strong
+2049,6.66,4.64,6.86,1.46,97.87,758.16,879.89,71.93,Infrastructure,Make in India,Strong
+2031,7.58,4.99,8.26,1.57,125.78,600.29,974.19,77.34,Biotech,Digital Push,Positive
+2048,6.39,3.63,6.77,1.52,132.11,908.18,621.06,125.34,AI,Smart Cities,Positive
+2028,7.02,3.62,6.84,1.5,93.73,888.72,832.42,94.29,Technology,Startup India,Very Strong
+2042,6.72,4.1,4.64,1.48,90.96,915.89,964.06,128.87,Biotech,Green Energy,Very Strong
+2030,6.93,3.77,5.09,1.5,104.28,589.23,929.84,85.61,Manufacturing,Startup India,Moderate
+2037,7.55,3.05,6.17,1.56,105.07,899.57,928.19,140.39,Space,Startup India,Very Strong
+2043,6.72,3.5,5.39,1.44,83.03,796.09,653.42,102.31,Technology,PLI Scheme,Moderate
+2039,7.05,3.34,5.2,1.49,93.96,921.31,927.72,74.95,Infrastructure,Startup India,Moderate
+2046,6.8,5.05,5.32,1.56,23.33,815.13,793.97,74.64,Infrastructure,Make in India,Moderate
+2049,8.36,5.39,4.78,1.55,101.64,770.76,969.82,60.86,Technology,Make in India,Very Strong
+2036,7.47,3.43,5.41,1.44,132.36,901.2,882.88,63.04,AI,Smart Cities,Very Strong
+2034,7.38,4.58,6.54,1.49,68.33,852.23,705.83,76.81,AI,Digital Push,Moderate
+2027,7.75,4.81,8.0,1.54,98.42,879.81,859.03,70.17,Manufacturing,Green Energy,Strong
+2037,6.72,3.16,7.0,1.53,171.06,691.43,934.59,38.44,EV,Make in India,Very Strong
+2028,7.89,4.31,6.84,1.55,109.44,729.31,749.11,106.83,Manufacturing,Startup India,Positive
+2028,7.48,5.97,4.58,1.52,143.92,541.94,838.03,105.51,Renewable Energy,Digital Push,Strong
+2026,5.95,4.67,6.32,1.53,84.7,682.79,632.87,96.17,EV,Green Energy,Positive
+2033,6.06,4.03,6.13,1.52,121.22,844.85,896.86,67.3,Space,Green Energy,Very Strong
+2047,6.74,3.81,6.49,1.58,80.44,817.7,812.12,122.94,Biotech,Green Energy,Strong
+2033,6.14,2.78,5.84,1.48,120.03,632.46,947.97,86.44,Space,Green Energy,Very Strong
+2036,7.01,4.53,7.86,1.5,131.06,903.88,892.92,73.34,Renewable Energy,Smart Cities,Very Strong
+2034,6.39,5.56,6.25,1.45,125.12,1106.77,763.0,94.65,Manufacturing,Green Energy,Strong
+2030,7.12,3.63,6.35,1.44,101.38,641.67,701.51,93.5,EV,Digital Push,Very Strong
+2039,8.33,2.85,4.24,1.52,116.87,725.29,669.3,39.94,EV,Make in India,Strong
+2028,7.16,3.74,6.09,1.46,117.11,675.41,748.96,89.38,Renewable Energy,Digital Push,Very Strong
+2046,6.96,4.82,7.35,1.5,126.65,738.61,944.19,92.41,Space,Startup India,Moderate
+2030,7.51,3.9,6.76,1.58,106.91,782.87,574.12,82.43,Technology,PLI Scheme,Positive
+2030,6.64,3.63,4.04,1.58,133.28,666.32,675.0,63.57,AI,Smart Cities,Moderate
+2044,7.87,4.21,5.75,1.61,145.87,716.77,940.26,64.16,EV,Smart Cities,Very Strong
+2039,7.6,4.36,7.93,1.58,102.05,760.47,1006.05,100.28,Biotech,Startup India,Very Strong
+2029,7.23,3.23,6.05,1.62,111.16,806.59,682.36,105.23,Biotech,Digital Push,Very Strong
+2050,7.32,4.05,6.52,1.52,87.38,925.98,673.45,81.04,EV,Digital Push,Moderate
+2038,8.83,3.85,7.82,1.45,118.51,748.26,1017.0,97.65,Renewable Energy,Startup India,Very Strong
+2035,7.95,3.75,6.05,1.45,118.67,682.58,802.7,80.84,EV,PLI Scheme,Strong
+2050,8.96,3.49,6.99,1.57,111.45,833.56,694.76,72.94,Space,Green Energy,Positive
+2043,7.63,4.86,6.61,1.5,113.33,798.02,966.25,94.29,Renewable Energy,Green Energy,Very Strong
+2033,6.02,3.75,6.83,1.51,158.05,726.86,890.49,67.02,Technology,Make in India,Very Strong
+2033,6.99,2.8,6.58,1.47,37.83,808.2,923.13,127.88,Biotech,Digital Push,Positive
+2032,5.84,4.39,5.65,1.48,97.58,704.02,702.06,61.25,EV,Digital Push,Positive
+2033,7.62,4.71,5.75,1.52,101.41,686.35,872.48,95.68,Infrastructure,Startup India,Positive
+2039,7.8,3.64,5.35,1.45,146.42,522.08,994.48,93.0,Manufacturing,Startup India,Moderate
+2044,6.49,3.81,4.56,1.51,121.88,710.65,909.71,91.23,Biotech,Green Energy,Moderate
+2031,6.68,3.75,7.44,1.58,122.49,538.5,948.78,119.67,Technology,Digital Push,Very Strong
+2026,7.32,3.96,6.21,1.39,141.5,673.27,1016.44,36.28,Infrastructure,Digital Push,Positive
+2048,6.24,4.97,7.39,1.42,105.5,819.54,879.87,98.23,Biotech,Smart Cities,Very Strong
+2040,6.18,4.12,7.77,1.53,126.31,569.38,740.88,84.53,Technology,Make in India,Very Strong
+2026,8.19,4.79,6.25,1.57,96.73,727.22,942.8,101.68,AI,Make in India,Very Strong
+2050,7.29,3.52,4.89,1.48,83.67,757.86,665.2,91.09,Technology,Green Energy,Moderate
+2042,6.75,3.93,6.0,1.4,154.85,721.37,788.88,88.5,Technology,PLI Scheme,Positive
+2026,5.85,4.87,5.53,1.57,119.23,692.24,902.33,65.85,AI,Digital Push,Very Strong
+2040,7.88,3.64,4.22,1.46,126.12,789.05,369.57,76.54,EV,Smart Cities,Moderate
+2048,6.65,4.91,5.7,1.48,83.0,805.69,855.34,152.63,Manufacturing,Digital Push,Strong
+2027,8.69,3.76,6.13,1.52,122.76,750.18,861.95,101.86,Space,Startup India,Strong
+2039,7.89,3.97,5.56,1.47,154.46,698.91,660.97,111.05,Infrastructure,Green Energy,Very Strong
+2046,6.55,5.37,5.43,1.46,103.06,853.77,865.62,82.96,Biotech,PLI Scheme,Very Strong
+2033,6.63,3.89,4.92,1.46,78.61,592.71,846.59,72.89,Space,Make in India,Positive
+2033,8.58,4.3,6.4,1.59,114.6,832.49,824.76,105.53,Renewable Energy,Digital Push,Positive
+2044,7.13,4.63,8.07,1.56,84.1,800.36,986.52,51.93,Manufacturing,PLI Scheme,Very Strong
+2032,6.79,4.36,7.48,1.53,71.06,773.88,943.05,76.99,Space,Green Energy,Moderate
+2044,7.22,4.38,6.85,1.39,91.63,748.81,909.6,82.91,Biotech,Make in India,Very Strong
+2031,6.79,4.16,6.88,1.53,97.69,523.2,676.61,108.9,Technology,Digital Push,Positive
+2031,7.39,3.29,6.07,1.53,85.32,916.48,817.57,98.27,Space,Smart Cities,Positive
+2028,7.14,4.44,4.4,1.44,143.16,850.64,985.82,80.54,Renewable Energy,Green Energy,Moderate
+2032,7.9,3.69,5.83,1.51,157.24,634.63,789.95,97.38,AI,Digital Push,Very Strong
+2044,6.89,4.74,5.23,1.55,125.45,841.06,1037.6,83.94,Space,Make in India,Positive
+2033,6.49,5.16,6.35,1.53,119.6,772.66,913.69,111.4,Manufacturing,Make in India,Very Strong
+2035,6.92,2.94,7.43,1.47,106.45,680.04,1059.34,94.72,EV,Smart Cities,Positive
+2045,6.92,5.16,8.17,1.5,87.59,893.02,670.57,124.73,Infrastructure,Green Energy,Strong
+2040,7.14,3.91,6.26,1.54,150.07,698.3,798.35,84.44,Manufacturing,Green Energy,Strong
+2040,7.71,4.11,4.53,1.5,108.43,912.74,811.58,114.51,Manufacturing,PLI Scheme,Strong
+2026,7.66,3.56,6.26,1.56,98.44,814.11,904.86,91.81,EV,Digital Push,Positive
+2045,8.16,4.33,6.29,1.52,135.37,864.79,716.6,76.06,Renewable Energy,PLI Scheme,Moderate
+2032,6.55,4.25,6.88,1.54,108.16,819.49,594.94,142.03,AI,Make in India,Strong
+2029,7.51,4.95,6.18,1.54,134.43,813.93,872.95,116.19,EV,Make in India,Positive
+2031,7.78,3.68,6.27,1.45,99.76,775.83,768.69,94.69,Biotech,Smart Cities,Very Strong
+2050,6.66,5.36,5.57,1.5,135.44,662.78,754.1,105.32,AI,Smart Cities,Strong
+2026,7.03,4.67,5.89,1.48,134.49,757.5,723.01,68.36,EV,Green Energy,Moderate
+2030,5.8,4.26,6.71,1.55,143.12,859.97,837.34,69.06,Manufacturing,PLI Scheme,Moderate
+2048,7.93,4.07,4.19,1.52,92.26,836.31,669.24,112.28,AI,Make in India,Moderate
+2026,7.03,3.99,5.88,1.49,107.92,810.15,792.81,90.1,Renewable Energy,Digital Push,Very Strong
+2029,7.85,4.03,6.89,1.44,158.69,498.51,703.98,86.88,Renewable Energy,Startup India,Very Strong
+2047,7.36,4.32,7.84,1.42,103.84,724.41,734.72,84.24,Infrastructure,Digital Push,Moderate
+2027,7.05,4.05,5.8,1.52,130.28,711.81,869.53,93.04,AI,Smart Cities,Moderate
+2035,5.93,3.75,7.39,1.46,167.26,617.61,911.2,84.92,Infrastructure,Digital Push,Moderate
+2030,6.07,4.32,7.89,1.53,63.77,858.45,777.15,49.36,Biotech,Make in India,Very Strong
+2035,5.13,3.61,5.81,1.42,103.01,506.96,955.5,118.32,EV,PLI Scheme,Very Strong
+2026,6.75,4.43,5.64,1.58,110.05,850.4,683.82,87.79,Technology,Green Energy,Positive
+2047,9.02,4.04,6.02,1.53,65.03,909.51,607.21,126.63,Biotech,PLI Scheme,Strong
+2031,6.17,4.69,6.12,1.5,98.6,724.82,632.91,54.76,Renewable Energy,Startup India,Very Strong
+2038,5.09,4.89,7.29,1.58,85.72,741.08,669.44,54.68,Manufacturing,Green Energy,Moderate
+2040,7.97,4.89,5.43,1.55,131.44,866.11,636.19,84.49,Space,Startup India,Strong
+2029,9.09,4.42,7.74,1.48,66.68,658.36,1102.96,109.55,Renewable Energy,Startup India,Very Strong
+2038,7.44,4.5,5.4,1.5,157.23,829.29,602.97,65.61,Technology,Make in India,Strong
+2049,7.43,3.97,4.94,1.4,127.25,639.86,951.24,64.83,Manufacturing,Make in India,Positive
+2045,6.95,4.67,6.72,1.55,83.65,603.91,816.48,97.44,AI,Smart Cities,Very Strong
+2049,5.76,4.75,7.43,1.49,135.66,785.52,851.44,83.74,Space,Smart Cities,Moderate
+2040,6.04,3.1,6.38,1.4,124.92,746.8,693.2,100.88,AI,Startup India,Moderate
+2033,6.95,4.46,6.64,1.44,109.03,543.48,865.56,84.1,Biotech,PLI Scheme,Positive
+2030,6.79,5.16,8.15,1.54,91.96,919.84,692.05,97.7,Space,Smart Cities,Positive
+2040,7.11,3.95,7.44,1.58,123.69,700.23,949.19,117.32,Renewable Energy,Make in India,Positive
+2029,7.86,3.8,6.23,1.5,113.07,811.28,960.77,65.65,Manufacturing,Smart Cities,Positive
+2037,6.73,3.91,5.77,1.45,92.77,942.62,801.12,113.7,EV,Startup India,Positive
+2038,7.88,3.15,7.3,1.43,76.42,779.71,810.29,55.92,Space,Green Energy,Very Strong
+2027,6.74,4.29,7.03,1.57,88.74,902.8,880.58,102.19,Manufacturing,PLI Scheme,Very Strong
+2044,8.03,4.22,6.62,1.52,97.42,646.43,873.43,118.39,Infrastructure,PLI Scheme,Strong
+2044,7.27,4.34,5.87,1.48,139.06,920.52,963.38,79.52,Technology,Digital Push,Positive
+2029,6.85,4.49,6.12,1.47,131.52,650.9,959.42,102.89,Biotech,Smart Cities,Moderate
+2029,7.26,3.64,6.05,1.53,98.75,681.46,815.96,80.26,AI,PLI Scheme,Moderate
+2036,6.97,4.39,5.89,1.53,99.72,575.44,753.19,101.71,Renewable Energy,Make in India,Positive
+2030,7.29,4.51,5.6,1.46,134.78,782.21,933.63,44.83,Manufacturing,Green Energy,Positive
+2045,7.81,3.86,6.47,1.44,116.68,825.71,798.12,93.24,AI,Make in India,Positive
+2036,7.13,4.49,5.55,1.45,116.34,842.02,835.92,97.91,Renewable Energy,Smart Cities,Positive
+2035,6.9,4.26,6.38,1.48,92.42,578.21,894.24,116.89,Space,Startup India,Positive
+2033,6.3,3.76,4.1,1.47,106.91,795.0,956.58,108.51,AI,Digital Push,Moderate
+2031,7.66,4.4,5.6,1.58,110.11,799.44,856.52,86.78,Renewable Energy,Digital Push,Strong
+2031,7.48,4.0,7.3,1.47,107.72,823.77,737.79,95.36,AI,Green Energy,Positive
+2033,6.25,4.69,5.3,1.44,128.35,657.27,1071.58,61.08,EV,PLI Scheme,Positive
+2048,7.87,4.03,6.79,1.44,129.13,449.36,1034.25,122.88,Infrastructure,PLI Scheme,Positive
+2040,6.24,3.3,5.38,1.49,87.03,834.78,677.48,103.82,Technology,PLI Scheme,Very Strong
+2039,8.02,4.39,6.98,1.41,97.49,732.5,692.35,52.78,AI,Digital Push,Moderate
+2036,7.75,4.36,5.9,1.5,92.82,783.63,709.96,94.92,Technology,Startup India,Moderate
+2037,7.54,3.44,5.86,1.43,144.71,738.65,938.8,96.45,AI,PLI Scheme,Strong
