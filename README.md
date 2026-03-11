@@ -103,10 +103,79 @@ Animated plots dynamically display survival rates across classes.
 
 ---
 
-📷 Example Visualization
-<p align="center"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Titanic_3D.png/640px-Titanic_3D.png" width="500"> 
-</p>
+📷 File Structure
+
+```tree
+├── 📁 .ipynb_checkpoints
+│   ├── 📄 accident_predict-checkpoint.ipynb
+│   ├── 📄 gender-checkpoint.ipynb
+│   ├── 📄 ios_android-checkpoint.ipynb
+│   ├── 📄 kolkata-checkpoint.ipynb
+│   ├── 📄 mock_test-checkpoint.ipynb
+│   ├── 📄 testing-checkpoint.ipynb
+│   └── 📄 train-checkpoint.ipynb
+├── 📁 codes
+│   ├── 📁 .ipynb_checkpoints
+│   │   ├── 📄 advanced.ipynb
+│   │   ├── 📄 climate.ipynb
+│   │   ├── 📄 earth_quake.ipynb
+│   │   ├── 📄 phone-pay_razar_paypal-checkpoint.ipynb
+│   │   ├── 📄 test-checkpoint.ipynb
+│   │   ├── 📄 titanic-checkpoint.ipynb
+│   │   ├── 📄 train-checkpoint.ipynb
+│   │   └── 📄 visual.ipynb
+│   ├── 📄 JIS.ipynb
+│   ├── 📄 accident_predict.ipynb
+│   ├── 📄 adavance_pd.ipynb
+│   ├── 📄 assigment1.ipynb
+│   ├── 📄 breast_cancer.ipynb
+│   ├── 📄 earth_quake_2.ipynb
+│   ├── 📄 ecomic_gwrth.ipynb
+│   ├── 📄 gender.ipynb
+│   ├── 📄 ios_android.ipynb
+│   ├── 📄 ipl.ipynb
+│   ├── 📄 jis_university.db
+│   ├── 📄 jis_university_students.xlsx
+│   ├── 📄 kolkata.ipynb
+│   ├── 📄 match.ipynb
+│   ├── 📄 mock_test.ipynb
+│   ├── 📄 netflix.ipynb
+│   ├── 📄 new_titanic.ipynb
+│   ├── 📄 personl_data.ipynb
+│   ├── 📄 phone-pay_razar_paypal.ipynb
+│   ├── 📄 socia1l.ipynb
+│   ├── 📄 social.ipynb
+│   ├── 📄 social_media_usage.xlsx
+│   ├── 📄 social_use.ipynb
+│   ├── 📄 student_fruit.ipynb
+│   ├── 📄 testing.ipynb
+│   ├── 📄 testing3.ipynb
+│   ├── 📄 titanic.ipynb
+│   ├── 📄 titanic2.ipynb
+│   ├── 📄 titanic3.ipynb
+│   ├── 📄 titanic4ANOVA.ipynb
+│   └── 📄 train.ipynb
+├── 📁 data
+│   ├── 📄 Road_Accidents_2017-Tables_3.7.csv
+│   ├── 📄 antutu_android_vs_ios_v3.csv
+│   ├── 📄 earthquake_1995-2023.csv
+│   ├── 📄 india_economic_growth_large_dataset.csv
+│   ├── 📄 indian_cricket_team_t20.csv
+│   ├── 📄 ipl_players_career_dataset.xlsx
+│   ├── 📄 kolkata-2025-domestic.csv
+│   ├── 📄 kolkata-2025-international.csv
+│   ├── 📄 netflix_series_monthly_popularity_dataset (1).xlsx
+│   ├── 📄 paypal_transactions_dataset.xlsx
+│   ├── 📄 phonepe_transactions_dataset.xlsx
+│   ├── 📄 query.csv
+│   ├── 📄 razer_dataset_2026.xlsx
+│   ├── 📄 social_media_engagement_dataset.csv
+│   ├── 📄 social_media_trends_dataset.xlsx
+│   ├── 📄 student_fruit_dataset.xlsx
+│   ├── 📄 vgsales.csv
+│   └── 📄 youtube_trending_videos_dataset_2026.xlsx
+└── 📝 README.md
+```
 
 ---
 
