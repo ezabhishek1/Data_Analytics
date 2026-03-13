@@ -13,7 +13,7 @@
 
 This project analyzes the **Titanic passenger dataset** to identify patterns that influenced survival rates.
 
-The project demonstrates:
+The project demonstrates:---
 
 - 📊 Data analysis
 - 📈 Data visualization
